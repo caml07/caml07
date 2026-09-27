@@ -1,9 +1,11 @@
 # CAM / 07
 
 `LITTLE ENGINEER`<br>
-**THINGS GROW HERE.**
+**BUILDING THINGS THAT SHOULDN'T WORK.**
 
-linux / niri / obsidian / field notes / university / music
+`linux / niri / obsidian / field notes / university / music`
+
+{{TELEMETRY}}
 
 ---
 
@@ -11,11 +13,15 @@ linux / niri / obsidian / field notes / university / music
 
 ---
 
-{{GROWTH}}
+{{GARDEN}}
 
 ---
 
-{{WORK}}
+{{BANK}}
+
+---
+
+{{MIXER}}
 
 ---
 
@@ -23,13 +29,13 @@ linux / niri / obsidian / field notes / university / music
 
 ---
 
-## OFF—REPO
+## LOCAL / OFF—REPO
 
-`LINUX / NIRI`<br>
-`OBSIDIAN / FIELD NOTES`<br>
-`UNIVERSITY / COMPUTER SCIENCE`<br>
-`MUSIC / USUALLY SOMETHING SAD`<br>
-`THINGS THAT SHOULD PROBABLY NOT WORK`
+`HOST` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; linux / niri<br>
+`NOTES` &nbsp;&nbsp;&nbsp;&nbsp; obsidian / field notes<br>
+`STATUS` &nbsp;&nbsp;&nbsp; university / computer science<br>
+`AUDIO` &nbsp;&nbsp;&nbsp;&nbsp; usually something sad<br>
+`MISC` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; things that should probably not work
 
 ---
 

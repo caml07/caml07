@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="222" viewBox="0 0 900 222" role="img">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .caps { letter-spacing: .12em; }
+  </style>
+  <rect width="900" height="222" fill="#151412"/>
+  <rect x="0.5" y="0.5" width="899" height="221" fill="none" stroke="#493e31"/>
+  <text x="22" y="28" class="mono caps" fill="#e1a33b" font-size="11" font-weight="700">MIXER / LANGUAGES</text>
+  <text x="878" y="28" text-anchor="end" class="mono caps" fill="#91b36b" font-size="10">BYTES / PUBLIC REPOS</text>
+  <line x1="22" y1="42" x2="878" y2="42" stroke="#493e31" opacity=".72"/>
+<text x="24" y="74" class="mono caps" fill="#d8c7a3" font-size="10">QML</text>
+<rect x="178" y="63" width="610" height="11" fill="#27231e"/>
+<rect x="178" y="63" width="512.40" height="11" fill="#e1a33b"/>
+<line x1="690.40" y1="59" x2="690.40" y2="78" stroke="#d8c7a3" stroke-width="1"/>
+<text x="858" y="74" text-anchor="end" class="mono" fill="#e1a33b" font-size="11" font-weight="700">84%</text>
+<text x="24" y="104" class="mono caps" fill="#d8c7a3" font-size="10">SHELL</text>
+<rect x="178" y="93" width="610" height="11" fill="#27231e"/>
+<rect x="178" y="93" width="48.80" height="11" fill="#91b36b"/>
+<line x1="226.80" y1="89" x2="226.80" y2="108" stroke="#d8c7a3" stroke-width="1"/>
+<text x="858" y="104" text-anchor="end" class="mono" fill="#91b36b" font-size="11" font-weight="700">08%</text>
+<text x="24" y="134" class="mono caps" fill="#d8c7a3" font-size="10">PYTHON</text>
+<rect x="178" y="123" width="610" height="11" fill="#27231e"/>
+<rect x="178" y="123" width="24.40" height="11" fill="#7aa2f7"/>
+<line x1="202.40" y1="119" x2="202.40" y2="138" stroke="#d8c7a3" stroke-width="1"/>
+<text x="858" y="134" text-anchor="end" class="mono" fill="#7aa2f7" font-size="11" font-weight="700">04%</text>
+<text x="24" y="164" class="mono caps" fill="#d8c7a3" font-size="10">JAVASCRIPT</text>
+<rect x="178" y="153" width="610" height="11" fill="#27231e"/>
+<rect x="178" y="153" width="12.20" height="11" fill="#d96b5f"/>
+<line x1="190.20" y1="149" x2="190.20" y2="168" stroke="#d8c7a3" stroke-width="1"/>
+<text x="858" y="164" text-anchor="end" class="mono" fill="#d96b5f" font-size="11" font-weight="700">02%</text>
+<text x="24" y="194" class="mono caps" fill="#d8c7a3" font-size="10">OTHER</text>
+<rect x="178" y="183" width="610" height="11" fill="#27231e"/>
+<rect x="178" y="183" width="12.20" height="11" fill="#8d76ad"/>
+<line x1="190.20" y1="179" x2="190.20" y2="198" stroke="#d8c7a3" stroke-width="1"/>
+<text x="858" y="194" text-anchor="end" class="mono" fill="#8d76ad" font-size="11" font-weight="700">02%</text>
+</svg>

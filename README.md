@@ -3,79 +3,71 @@
 `LITTLE ENGINEER`<br>
 **BUILDING THINGS THAT SHOULDN'T WORK.**
 
-linux / niri / obsidian / field notes / university / music
+`linux / niri / obsidian / field notes / university / music`
+
+<img src="./widgets/telemetry.svg" width="100%" alt="CAM / 07 GitHub telemetry">
 
 ---
 
-## NOW / 001
+## DECK / NOW
 
 ### [OSF-Atlas](https://github.com/caml07/OSF-Atlas)
 
-`PUBLIC / ORIGINAL` · `PYTHON` · `★ 0`
+An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.
 
-An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-verified connections.
+`PYTHON` · `ORIGINAL` · `★ 0`
 
-**latest public commit**<br>
-[`45c453b`](https://github.com/caml07/OSF-Atlas/commit/45c453bb94b77e9c0c3cd78abddaae9ee6d5b94a) / `2026.09.27` / `00:19`<br>
-docs: expand human discovery guide
-
----
-
-## GROWTH / 365D
-
-```text
-                ╱ ╲                        ╱ ╲                           ╱ ╲╱ ╲
-             ╱ ╲ │                   ╱ ╲    │    ╱ ╲                      │  │ ╱ ╲
-              │  │                    │ ╱ ╲ │     │                ╱ ╲╱ ╲ │  │  │
-              │  │                    │  │  │ ╱ ╲ │    ╱ ╲╱ ╲   ╱ ╲ │  │  │  │  │
-──────────────┴──┴────────────────────┴──┴──┴──┴──┴─────┴──┴─────┴──┴──┴──┴──┴──┴─
-```
-
-`308 / CONTRIBUTIONS`<br>
-`05 / PUBLIC REPOS`<br>
-`01 / PUBLIC STARS`
-
-<sub>MOSS / 53 WEEKS / GENERATED FROM GITHUB CONTRIBUTION COUNTS</sub>
+**LAST SIGNAL**<br>
+[`90f08ee`](https://github.com/caml07/OSF-Atlas/commit/90f08eeb4ee8425fcf96608102be08ba0ff874d2) · `2026.09.27` · `00:41`<br>
+data: ingest OSF 041-050
 
 ---
 
-## WORK / PUBLIC
+## GARDEN / 365D
 
-### PUBLIC / 01 — [OSF-Atlas](https://github.com/caml07/OSF-Atlas)
+<img src="./widgets/garden.svg" width="100%" alt="A living garden generated from the last 365 days of GitHub contributions">
 
-`PYTHON` · `ORIGINAL` · `★ 0` · `PUSH 2026.09.27`
+<sub>365 contribution days → weekly stems → daily leaves. Same activity, same garden.</sub>
 
-An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-verified connections.
+---
 
-### PUBLIC / 02 — [iNiR](https://github.com/caml07/iNiR)
+## BANK / PUBLIC
 
-`QML` · `FORK` · `★ 0` · `PUSH 2026.09.21`
+`▌ ● 01` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / NOW`
+<sub>An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.</sub>
 
-A Niri shell illogical-impulse based - with some modifications..
+`  ○ 02` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
+<sub>A Niri shell illogical-impulse based - with some modifications..</sub>
 
-### PUBLIC / 03 — [calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)
+`  ○ 03` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
+<sub>Una calculadora hecha con flask</sub>
 
-`PYTHON` · `ORIGINAL` · `★ 0` · `PUSH 2026.09.21`
+`  ○ 04` **[wayvibes-tui](https://github.com/caml07/wayvibes-tui)** `RUST / PUBLIC`
+<sub>A native Linux terminal interface for WayVibes, built with Rust, Ratatui and Crossterm.</sub>
 
-Una calculadora hecha con flask
+`  ○ 05` **[spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)** `TYPESCRIPT / FORK`
+<sub>A spicetify extension that lets a cat jam in sync with the beat of your music. UPDATED</sub>
 
-### PUBLIC / 04 — [wayvibes-tui](https://github.com/caml07/wayvibes-tui)
+---
 
-`RUST` · `ORIGINAL` · `★ 1` · `PUSH 2026.08.26`
+## MIXER / LANGUAGES
 
-A native Linux terminal interface for WayVibes, built with Rust, Ratatui and Crossterm.
-
-### PUBLIC / 05 — [spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)
-
-`TYPESCRIPT` · `FORK` · `★ 0` · `PUSH 2026.08.25`
-
-A spicetify extension that lets a cat jam in sync with the beat of your music. UPDATED
+<img src="./widgets/mixer.svg" width="100%" alt="Language mix across public repositories">
 
 ---
 
 ## LOG / RECENT
 
 ```text
+2026.09.27 00:41  90f08ee  OSF-Atlas
+  data: ingest OSF 041-050
+
+2026.09.27 00:41  25ef053  OSF-Atlas
+  feat: capture structural source labels
+
+2026.09.27 00:33  9285f5c  OSF-Atlas
+  data: ingest OSF 031-040
+
 2026.09.27 00:19  45c453b  OSF-Atlas
   docs: expand human discovery guide
 
@@ -87,26 +79,17 @@ A spicetify extension that lets a cat jam in sync with the beat of your music. U
 
 2026.09.26 23:49  8d50092  OSF-Atlas
   chore: connect public OSF Atlas repository
-
-2026.09.26 23:49  b47a7f9  OSF-Atlas
-  docs: explain evidence-first lore discovery
-
-2026.09.26 23:49  0d9205b  OSF-Atlas
-  refactor: keep entity types unclassified
-
-2026.09.26 23:11  f002764  OSF-Atlas
-  Initial commit
 ```
 
 ---
 
-## OFF—REPO
+## LOCAL / OFF—REPO
 
-`LINUX / NIRI`<br>
-`OBSIDIAN / FIELD NOTES`<br>
-`UNIVERSITY / COMPUTER SCIENCE`<br>
-`MUSIC / USUALLY SOMETHING SAD`<br>
-`THINGS THAT SHOULD PROBABLY NOT WORK`
+`HOST` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; linux / niri<br>
+`NOTES` &nbsp;&nbsp;&nbsp;&nbsp; obsidian / field notes<br>
+`STATUS` &nbsp;&nbsp;&nbsp; university / computer science<br>
+`AUDIO` &nbsp;&nbsp;&nbsp;&nbsp; usually something sad<br>
+`MISC` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; things that should probably not work
 
 ---
 

@@ -33,14 +33,24 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python scripts/render_profile.py
 
+      - name: Validate generated SVG widgets
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          for path in Path("widgets").glob("*.svg"):
+              ET.parse(path)
+              print(f"valid: {path}")
+          PY
+
       - name: Commit changed profile
         run: |
-          if git diff --quiet -- README.md data/profile-data.json; then
+          if git diff --quiet -- README.md data/profile-data.json widgets/; then
             echo "profile already current"
             exit 0
           fi
           git config user.name "cam-07-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/profile-data.json
-          git commit -m "chore: grow profile [skip ci]"
+          git add README.md data/profile-data.json widgets/
+          git commit -m "chore: refresh CAM 07 [skip ci]"
           git push
