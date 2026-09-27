@@ -15,11 +15,11 @@
 
 An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.
 
-`PYTHON` · `ORIGINAL` · `★ 0`
+`PYTHON` · `ORIGINAL` · `★ 1`
 
 **LAST SIGNAL**<br>
-[`90f08ee`](https://github.com/caml07/OSF-Atlas/commit/90f08eeb4ee8425fcf96608102be08ba0ff874d2) · `2026.09.27` · `00:41`<br>
-data: ingest OSF 041-050
+[`d50a9a1`](https://github.com/caml07/OSF-Atlas/commit/d50a9a13cb8a50b02cecdd30e8dd1c9348e20321) · `2026.09.27` · `00:57`<br>
+data: ingest OSF 061-070
 
 ---
 
@@ -59,6 +59,15 @@ data: ingest OSF 041-050
 ## LOG / RECENT
 
 ```text
+2026.09.27 00:57  d50a9a1  OSF-Atlas
+  data: ingest OSF 061-070
+
+2026.09.27 00:56  3a9d531  OSF-Atlas
+  fix: preserve mixed source line endings
+
+2026.09.27 00:48  856a7c8  OSF-Atlas
+  data: ingest OSF 051-060
+
 2026.09.27 00:41  90f08ee  OSF-Atlas
   data: ingest OSF 041-050
 
@@ -70,15 +79,6 @@ data: ingest OSF 041-050
 
 2026.09.27 00:19  45c453b  OSF-Atlas
   docs: expand human discovery guide
-
-2026.09.27 00:19  c1edb4f  OSF-Atlas
-  refactor: make lore classification human-owned
-
-2026.09.26 23:50  6d971f7  OSF-Atlas
-  docs: pause corpus for semantic review
-
-2026.09.26 23:49  8d50092  OSF-Atlas
-  chore: connect public OSF Atlas repository
 ```
 
 ---

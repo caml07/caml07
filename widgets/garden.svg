@@ -207,17 +207,17 @@
 <line x1="857.36" y1="128.19" x2="863.56" y2="126.99" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
 <ellipse cx="867.56" cy="126.09" rx="8.00" ry="3.40" transform="rotate(28 867.56 126.09)" fill="#91b36b" opacity="0.87"/>
 </g>
-<g data-week="52" data-total="28">
-<path d="M 872.00 184.00 Q 867.40 146.24 876.60 108.47" fill="none" stroke="#91b36b" stroke-width="1.39" stroke-linecap="round"/>
-<line x1="873.15" y1="165.12" x2="867.90" y2="163.92" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="865.79" cy="163.02" rx="4.22" ry="1.96" transform="rotate(-28 865.79 163.02)" fill="#91b36b" opacity="0.56"/>
-<line x1="874.30" y1="146.24" x2="880.50" y2="145.04" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="884.50" cy="144.14" rx="8.00" ry="3.40" transform="rotate(28 884.50 144.14)" fill="#91b36b" opacity="0.87"/>
-<line x1="875.45" y1="127.35" x2="869.25" y2="126.15" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="865.25" cy="125.25" rx="8.00" ry="3.40" transform="rotate(-28 865.25 125.25)" fill="#91b36b" opacity="0.87"/>
-<circle cx="876.60" cy="108.47" r="3.4" fill="#e1a33b"/>
-<circle cx="876.60" cy="108.47" r="6.8" fill="none" stroke="#e1a33b" opacity=".24"/>
+<g data-week="52" data-total="31">
+<path d="M 872.00 184.00 Q 867.25 144.63 876.75 105.26" fill="none" stroke="#91b36b" stroke-width="1.42" stroke-linecap="round"/>
+<line x1="873.19" y1="164.32" x2="867.93" y2="163.12" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="865.82" cy="162.22" rx="4.22" ry="1.96" transform="rotate(-28 865.82 162.22)" fill="#91b36b" opacity="0.56"/>
+<line x1="874.37" y1="144.63" x2="880.57" y2="143.43" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="884.57" cy="142.53" rx="8.00" ry="3.40" transform="rotate(28 884.57 142.53)" fill="#91b36b" opacity="0.87"/>
+<line x1="875.56" y1="124.95" x2="869.36" y2="123.75" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="865.36" cy="122.85" rx="8.00" ry="3.40" transform="rotate(-28 865.36 122.85)" fill="#91b36b" opacity="0.87"/>
+<circle cx="876.75" cy="105.26" r="3.4" fill="#e1a33b"/>
+<circle cx="876.75" cy="105.26" r="6.8" fill="none" stroke="#e1a33b" opacity=".24"/>
 </g>
 <text x="28" y="212" class="mono caps" fill="#4e473d" font-size="8">OLD GROWTH</text>
-<text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 313 CONTRIBUTIONS</text>
+<text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 316 CONTRIBUTIONS</text>
 </svg>
