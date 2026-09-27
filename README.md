@@ -18,8 +18,8 @@ An evidence-first archive of Obsidian Soundfields: transcripts, entities, locati
 `PYTHON` · `ORIGINAL` · `★ 1`
 
 **LAST SIGNAL**<br>
-[`d50a9a1`](https://github.com/caml07/OSF-Atlas/commit/d50a9a13cb8a50b02cecdd30e8dd1c9348e20321) · `2026.09.27` · `00:57`<br>
-data: ingest OSF 061-070
+[`2cc1b77`](https://github.com/caml07/OSF-Atlas/commit/2cc1b77dd8630179289c1ba2df69a19eed5c2ac2) · `2026.09.27` · `10:15`<br>
+data: complete OSF corpus 111-125
 
 ---
 
@@ -59,26 +59,26 @@ data: ingest OSF 061-070
 ## LOG / RECENT
 
 ```text
+2026.09.27 10:15  2cc1b77  OSF-Atlas
+  data: complete OSF corpus 111-125
+
+2026.09.27 10:12  783dbf0  OSF-Atlas
+  data: ingest OSF 101-110
+
+2026.09.27 10:07  f067505  OSF-Atlas
+  data: ingest OSF 091-100
+
+2026.09.27 10:07  d18b441  OSF-Atlas
+  feat: generalize source record labels
+
+2026.09.27 09:55  98e458c  OSF-Atlas
+  data: ingest OSF 081-090
+
+2026.09.27 09:43  92276df  OSF-Atlas
+  data: ingest OSF 071-080
+
 2026.09.27 00:57  d50a9a1  OSF-Atlas
   data: ingest OSF 061-070
-
-2026.09.27 00:56  3a9d531  OSF-Atlas
-  fix: preserve mixed source line endings
-
-2026.09.27 00:48  856a7c8  OSF-Atlas
-  data: ingest OSF 051-060
-
-2026.09.27 00:41  90f08ee  OSF-Atlas
-  data: ingest OSF 041-050
-
-2026.09.27 00:41  25ef053  OSF-Atlas
-  feat: capture structural source labels
-
-2026.09.27 00:33  9285f5c  OSF-Atlas
-  data: ingest OSF 031-040
-
-2026.09.27 00:19  45c453b  OSF-Atlas
-  docs: expand human discovery guide
 ```
 
 ---
