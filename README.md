@@ -1,7 +1,7 @@
 # CAM / 07
 
 `LITTLE ENGINEER`<br>
-**THINGS GROW HERE.**
+**BUILDING THINGS THAT SHOULDN'T WORK.**
 
 linux / niri / obsidian / field notes / university / music
 
