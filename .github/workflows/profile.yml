@@ -1,0 +1,45 @@
+name: refresh profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Test renderer
+        run: python -m unittest discover -s tests -v
+
+      - name: Render profile
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/render_profile.py
+
+      - name: Commit changed telemetry
+        run: |
+          if git diff --quiet -- assets/profile.svg assets/profile-mobile.svg assets/profile-data.json; then
+            echo "profile already current"
+            exit 0
+          fi
+          git config user.name "cam-07-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile.svg assets/profile-mobile.svg assets/profile-data.json
+          git commit -m "chore: refresh profile telemetry [skip ci]"
+          git push
