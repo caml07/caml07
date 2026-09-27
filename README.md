@@ -31,7 +31,7 @@ docs: expand human discovery guide
 ──────────────┴──┴────────────────────┴──┴──┴──┴──┴─────┴──┴─────┴──┴──┴──┴──┴──┴─
 ```
 
-`307 / CONTRIBUTIONS`<br>
+`308 / CONTRIBUTIONS`<br>
 `05 / PUBLIC REPOS`<br>
 `01 / PUBLIC STARS`
 
