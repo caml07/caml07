@@ -20,54 +20,93 @@ class ProfileRenderTests(unittest.TestCase):
         ]
         self.assertEqual(mod.weekly_totals(days), [1, 5])
 
-    def test_vine_is_deterministic_and_stays_inside_band(self):
-        points, leaves = mod.build_vine([0, 2, 8, 1, 12], width=500, y=220, amplitude=18)
-        self.assertEqual(points, mod.build_vine([0, 2, 8, 1, 12], width=500, y=220, amplitude=18)[0])
-        self.assertTrue(all(202 <= p[1] <= 238 for p in points))
-        self.assertGreaterEqual(len(leaves), 2)
+    def test_growth_ascii_is_data_driven(self):
+        quiet = mod.render_growth_ascii([0] * 53)
+        active = mod.render_growth_ascii([0] * 48 + [1, 4, 9, 16, 25])
+        self.assertNotEqual(quiet, active)
+        self.assertIn("╱", active)
+        self.assertIn("╲", active)
+        self.assertIn("─", active)
+        self.assertNotIn("<svg", active)
 
-    def test_escape_xml(self):
-        self.assertEqual(mod.escape_xml('a & <b> "c"'), 'a &amp; &lt;b&gt; &quot;c&quot;')
+    def test_pair_weeks_compresses_year_without_losing_total(self):
+        weeks = list(range(1, 54))
+        bins = mod.pair_weeks(weeks)
+        self.assertEqual(len(bins), 27)
+        self.assertEqual(sum(bins), sum(weeks))
+
+    def test_render_readme_is_long_modular_and_not_svg_based(self):
+        snapshot = {
+            "login": "caml07",
+            "public_repos": 5,
+            "stars": 1,
+            "contributions": 305,
+            "contribution_days": [
+                {"date": "2026-09-20", "contributionCount": 1},
+                {"date": "2026-09-21", "contributionCount": 2},
+            ],
+            "active_repo": {
+                "name": "OSF-Atlas",
+                "url": "https://github.com/caml07/OSF-Atlas",
+                "description": "Evidence-first archive",
+                "language": None,
+                "stars": 0,
+                "fork": False,
+            },
+            "latest_commit": {
+                "sha": "6d971f7",
+                "date": "2026-09-26T23:50:26-06:00",
+                "message": "docs: pause corpus for semantic review",
+                "repo": "OSF-Atlas",
+                "url": "https://github.com/caml07/OSF-Atlas/commit/6d971f7",
+            },
+            "repos": [
+                {
+                    "name": "wayvibes-tui",
+                    "url": "https://github.com/caml07/wayvibes-tui",
+                    "description": "A native Linux terminal interface for WayVibes.",
+                    "language": "Rust",
+                    "stars": 1,
+                    "fork": False,
+                    "pushed_at": "2026-08-26T06:03:02Z",
+                }
+            ],
+            "recent_commits": [
+                {
+                    "sha": "6d971f7",
+                    "date": "2026-09-26T23:50:26-06:00",
+                    "message": "docs: pause corpus for semantic review",
+                    "repo": "OSF-Atlas",
+                    "url": "https://github.com/caml07/OSF-Atlas/commit/6d971f7",
+                }
+            ],
+            "generated_at": "2026-09-27",
+        }
+        readme = mod.render_readme(snapshot)
+        for heading in ("CAM / 07", "NOW / 001", "GROWTH / 365D", "WORK / PUBLIC", "LOG / RECENT", "OFF—REPO"):
+            self.assertIn(heading, readme)
+        self.assertIn("THINGS GROW HERE.", readme)
+        self.assertIn("6d971f7", readme)
+        self.assertIn("wayvibes-tui", readme)
+        self.assertNotIn("profile.svg", readme)
+        self.assertNotIn("<picture>", readme)
 
     def test_disk_snapshot_does_not_publish_raw_daily_activity(self):
         snapshot = {
             "login": "caml07",
             "public_repos": 5,
             "stars": 1,
-            "contributions": 303,
+            "contributions": 305,
             "contribution_days": [{"date": "2026-09-21", "contributionCount": 2}],
-            "active_repo": "OSF-Atlas",
-            "active_repo_url": "https://github.com/caml07/OSF-Atlas",
-            "latest_commit_sha": "abcdef0",
-            "latest_commit_date": "2026-09-26T00:00:00Z",
-            "latest_commit_message": "test",
+            "active_repo": {"name": "OSF-Atlas"},
+            "latest_commit": {"sha": "abcdef0"},
+            "repos": [],
+            "recent_commits": [],
             "generated_at": "2026-09-27",
         }
         public = mod.snapshot_for_disk(snapshot)
         self.assertNotIn("contribution_days", public)
         self.assertEqual(public["moss_weeks"], [2])
-
-    def test_render_contains_verifiable_fields(self):
-        snapshot = {
-            "login": "caml07",
-            "public_repos": 5,
-            "stars": 1,
-            "contributions": 289,
-            "contribution_days": [
-                {"date": "2026-09-20", "contributionCount": 1},
-                {"date": "2026-09-21", "contributionCount": 2},
-            ],
-            "active_repo": "OSF-Atlas",
-            "active_repo_url": "https://github.com/caml07/OSF-Atlas",
-            "latest_commit_sha": "f002764",
-            "latest_commit_date": "2026-09-27T05:11:09Z",
-            "latest_commit_message": "Initial commit",
-            "generated_at": "2026-09-27T06:00:00Z",
-        }
-        svg = mod.render_svg(snapshot)
-        for value in ("CAM / 07", "OSF-ATLAS", "289", "f002764", "THINGS GROW HERE"):
-            self.assertIn(value, svg)
-        self.assertNotIn("PROFILE VIEWS", svg)
 
 
 if __name__ == "__main__":
