@@ -33,11 +33,11 @@ data: complete OSF corpus 111-125
 
 ## BANK / PUBLIC
 
-`▌ ● 01` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / NOW`
-<sub>An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.</sub>
-
-`  ○ 02` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
+`  ○ 01` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
 <sub>A Niri shell illogical-impulse based - with some modifications..</sub>
+
+`▌ ● 02` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / NOW`
+<sub>An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.</sub>
 
 `  ○ 03` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
 <sub>Una calculadora hecha con flask</sub>

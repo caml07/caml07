@@ -8,7 +8,7 @@
     "stars": 1,
     "url": "https://github.com/caml07/OSF-Atlas"
   },
-  "contributions": 324,
+  "contributions": 325,
   "generated_at": "2026-09-29",
   "languages": {
     "CSS": 24836,
@@ -85,7 +85,7 @@
     14,
     27,
     39,
-    0
+    1
   ],
   "public_repos": 5,
   "recent_commits": [
@@ -141,6 +141,15 @@
   ],
   "repos": [
     {
+      "description": "A Niri shell illogical-impulse based - with some modifications..",
+      "fork": true,
+      "language": "QML",
+      "name": "iNiR",
+      "pushed_at": "2026-09-29T20:45:27Z",
+      "stars": 0,
+      "url": "https://github.com/caml07/iNiR"
+    },
+    {
       "description": "An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.",
       "fork": false,
       "language": "Python",
@@ -148,15 +157,6 @@
       "pushed_at": "2026-09-27T16:15:32Z",
       "stars": 1,
       "url": "https://github.com/caml07/OSF-Atlas"
-    },
-    {
-      "description": "A Niri shell illogical-impulse based - with some modifications..",
-      "fork": true,
-      "language": "QML",
-      "name": "iNiR",
-      "pushed_at": "2026-09-21T05:24:20Z",
-      "stars": 0,
-      "url": "https://github.com/caml07/iNiR"
     },
     {
       "description": "Una calculadora hecha con flask",
