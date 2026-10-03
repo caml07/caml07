@@ -93,4 +93,4 @@ data: complete OSF corpus 111-125
 
 ---
 
-<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.10.02 · CAM / 07</sub>
+<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.10.03 · CAM / 07</sub>
