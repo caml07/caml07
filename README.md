@@ -11,15 +11,15 @@
 
 ## DECK / NOW
 
-### [OSF-Atlas](https://github.com/caml07/OSF-Atlas)
+### [iNiR](https://github.com/caml07/iNiR)
 
-An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.
+A Niri shell illogical-impulse based - with some modifications..
 
-`PYTHON` · `ORIGINAL` · `★ 1`
+`QML` · `FORK` · `★ 0`
 
 **LAST SIGNAL**<br>
-[`2cc1b77`](https://github.com/caml07/OSF-Atlas/commit/2cc1b77dd8630179289c1ba2df69a19eed5c2ac2) · `2026.09.27` · `10:15`<br>
-data: complete OSF corpus 111-125
+[`4e2aae8`](https://github.com/snowarch/iNiR/commit/4e2aae86513f8886d360e7a44b74c5bc8da80677) · `2026.10.01` · `14:30`<br>
+fix(recording): recenter OSD until drag
 
 ---
 
@@ -33,10 +33,10 @@ data: complete OSF corpus 111-125
 
 ## BANK / PUBLIC
 
-`  ○ 01` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
+`▌ ● 01` **[iNiR](https://github.com/caml07/iNiR)** `QML / NOW`
 <sub>A Niri shell illogical-impulse based - with some modifications..</sub>
 
-`▌ ● 02` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / NOW`
+`  ○ 02` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / PUBLIC`
 <sub>An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.</sub>
 
 `  ○ 03` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
@@ -59,6 +59,12 @@ data: complete OSF corpus 111-125
 ## LOG / RECENT
 
 ```text
+2026.10.01 14:30  4e2aae8  iNiR
+  fix(recording): recenter OSD until drag
+
+2026.10.01 14:30  1e7e0ce  iNiR
+  fix(recording): keep the OSD on every output
+
 2026.09.27 10:15  2cc1b77  OSF-Atlas
   data: complete OSF corpus 111-125
 
@@ -73,12 +79,6 @@ data: complete OSF corpus 111-125
 
 2026.09.27 09:55  98e458c  OSF-Atlas
   data: ingest OSF 081-090
-
-2026.09.27 09:43  92276df  OSF-Atlas
-  data: ingest OSF 071-080
-
-2026.09.27 00:57  d50a9a1  OSF-Atlas
-  data: ingest OSF 061-070
 ```
 
 ---
@@ -93,4 +93,4 @@ data: complete OSF corpus 111-125
 
 ---
 
-<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.10.04 · CAM / 07</sub>
+<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.10.05 · CAM / 07</sub>

@@ -1,15 +1,15 @@
 {
   "active_repo": {
-    "description": "An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.",
-    "fork": false,
-    "language": "Python",
-    "name": "OSF-Atlas",
-    "pushed_at": "2026-09-27T16:15:32Z",
-    "stars": 1,
-    "url": "https://github.com/caml07/OSF-Atlas"
+    "description": "A Niri shell illogical-impulse based - with some modifications..",
+    "fork": true,
+    "language": "QML",
+    "name": "iNiR",
+    "pushed_at": "2026-10-03T21:43:59Z",
+    "stars": 0,
+    "url": "https://github.com/caml07/iNiR"
   },
-  "contributions": 325,
-  "generated_at": "2026-10-04",
+  "contributions": 327,
+  "generated_at": "2026-10-05",
   "languages": {
     "CSS": 24836,
     "GLSL": 59829,
@@ -25,15 +25,14 @@
     "TypeScript": 20521
   },
   "latest_commit": {
-    "date": "2026-09-27T10:15:30.000-06:00",
-    "message": "data: complete OSF corpus 111-125",
-    "repo": "OSF-Atlas",
-    "sha": "2cc1b77",
-    "url": "https://github.com/caml07/OSF-Atlas/commit/2cc1b77dd8630179289c1ba2df69a19eed5c2ac2"
+    "date": "2026-10-01T14:30:59.000-03:00",
+    "message": "fix(recording): recenter OSD until drag",
+    "repo": "iNiR",
+    "sha": "4e2aae8",
+    "url": "https://github.com/snowarch/iNiR/commit/4e2aae86513f8886d360e7a44b74c5bc8da80677"
   },
   "login": "caml07",
   "moss_weeks": [
-    0,
     0,
     0,
     0,
@@ -85,10 +84,25 @@
     14,
     27,
     39,
-    1
+    3,
+    0
   ],
   "public_repos": 5,
   "recent_commits": [
+    {
+      "date": "2026-10-01T14:30:59.000-03:00",
+      "message": "fix(recording): recenter OSD until drag",
+      "repo": "iNiR",
+      "sha": "4e2aae8",
+      "url": "https://github.com/snowarch/iNiR/commit/4e2aae86513f8886d360e7a44b74c5bc8da80677"
+    },
+    {
+      "date": "2026-10-01T14:30:59.000-03:00",
+      "message": "fix(recording): keep the OSD on every output",
+      "repo": "iNiR",
+      "sha": "1e7e0ce",
+      "url": "https://github.com/snowarch/iNiR/commit/1e7e0cea7b9e52968db14a0f1a6371c4f97a7d1c"
+    },
     {
       "date": "2026-09-27T10:15:30.000-06:00",
       "message": "data: complete OSF corpus 111-125",
@@ -123,20 +137,6 @@
       "repo": "OSF-Atlas",
       "sha": "98e458c",
       "url": "https://github.com/caml07/OSF-Atlas/commit/98e458c8477cac0407dc643a7ac166b7527c88e3"
-    },
-    {
-      "date": "2026-09-27T09:43:36.000-06:00",
-      "message": "data: ingest OSF 071-080",
-      "repo": "OSF-Atlas",
-      "sha": "92276df",
-      "url": "https://github.com/caml07/OSF-Atlas/commit/92276dfed817926dc2f1e1b293f55d99cdeb72ee"
-    },
-    {
-      "date": "2026-09-27T00:57:29.000-06:00",
-      "message": "data: ingest OSF 061-070",
-      "repo": "OSF-Atlas",
-      "sha": "d50a9a1",
-      "url": "https://github.com/caml07/OSF-Atlas/commit/d50a9a13cb8a50b02cecdd30e8dd1c9348e20321"
     }
   ],
   "repos": [
