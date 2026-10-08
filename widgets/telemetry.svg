@@ -9,7 +9,7 @@
   <text x="878" y="28" text-anchor="end" class="mono caps" fill="#91b36b" font-size="10">● LIVE</text>
   <line x1="22" y1="42" x2="878" y2="42" stroke="#493e31" opacity=".72"/>
 <text x="36.0" y="75" class="mono caps" fill="#817463" font-size="8.5">CONTRIB / 365D</text>
-<text x="36.0" y="101" class="mono" fill="#91b36b" font-size="20" font-weight="700">328</text>
+<text x="36.0" y="101" class="mono" fill="#91b36b" font-size="20" font-weight="700">329</text>
 <line x1="236.0" y1="56" x2="236.0" y2="105" stroke="#493e31" opacity=".6"/>
 <text x="250.0" y="75" class="mono caps" fill="#817463" font-size="8.5">PUBLIC REPOS</text>
 <text x="250.0" y="101" class="mono" fill="#7aa2f7" font-size="20" font-weight="700">05</text>
@@ -18,6 +18,6 @@
 <text x="464.0" y="101" class="mono" fill="#8d76ad" font-size="20" font-weight="700">02</text>
 <line x1="664.0" y1="56" x2="664.0" y2="105" stroke="#493e31" opacity=".6"/>
 <text x="678.0" y="75" class="mono caps" fill="#817463" font-size="8.5">LAST SIGNAL</text>
-<text x="678.0" y="101" class="mono" fill="#e1a33b" font-size="20" font-weight="700">4e2aae8</text>
-<text x="878" y="117" text-anchor="end" class="mono" fill="#4e473d" font-size="8">INIR / 2026.10.01</text>
+<text x="678.0" y="101" class="mono" fill="#e1a33b" font-size="20" font-weight="700">7e3f2df</text>
+<text x="878" y="117" text-anchor="end" class="mono" fill="#4e473d" font-size="8">INIR / 2026.10.08</text>
 </svg>

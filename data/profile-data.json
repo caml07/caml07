@@ -8,7 +8,7 @@
     "stars": 0,
     "url": "https://github.com/caml07/iNiR"
   },
-  "contributions": 328,
+  "contributions": 329,
   "generated_at": "2026-10-08",
   "languages": {
     "CSS": 24836,
@@ -25,11 +25,11 @@
     "TypeScript": 20521
   },
   "latest_commit": {
-    "date": "2026-10-01T14:30:59.000-03:00",
-    "message": "fix(recording): recenter OSD until drag",
+    "date": "2026-10-08T10:31:32.000-03:00",
+    "message": "feat(void): first-class Void Linux support (#283)",
     "repo": "iNiR",
-    "sha": "4e2aae8",
-    "url": "https://github.com/snowarch/iNiR/commit/4e2aae86513f8886d360e7a44b74c5bc8da80677"
+    "sha": "7e3f2df",
+    "url": "https://github.com/snowarch/iNiR/commit/7e3f2df69bb01fd47a6b1e7e3e84b37f5507eeb5"
   },
   "login": "caml07",
   "moss_weeks": [
@@ -85,10 +85,17 @@
     27,
     39,
     3,
-    1
+    2
   ],
   "public_repos": 5,
   "recent_commits": [
+    {
+      "date": "2026-10-08T10:31:32.000-03:00",
+      "message": "feat(void): first-class Void Linux support (#283)",
+      "repo": "iNiR",
+      "sha": "7e3f2df",
+      "url": "https://github.com/snowarch/iNiR/commit/7e3f2df69bb01fd47a6b1e7e3e84b37f5507eeb5"
+    },
     {
       "date": "2026-10-01T14:30:59.000-03:00",
       "message": "fix(recording): recenter OSD until drag",
@@ -130,13 +137,6 @@
       "repo": "OSF-Atlas",
       "sha": "d18b441",
       "url": "https://github.com/caml07/OSF-Atlas/commit/d18b4419b08c4e9f541e12514c616436e7184ed0"
-    },
-    {
-      "date": "2026-09-27T09:55:57.000-06:00",
-      "message": "data: ingest OSF 081-090",
-      "repo": "OSF-Atlas",
-      "sha": "98e458c",
-      "url": "https://github.com/caml07/OSF-Atlas/commit/98e458c8477cac0407dc643a7ac166b7527c88e3"
     }
   ],
   "repos": [

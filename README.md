@@ -18,8 +18,8 @@ A Niri shell illogical-impulse based - with some modifications..
 `QML` · `FORK` · `★ 0`
 
 **LAST SIGNAL**<br>
-[`4e2aae8`](https://github.com/snowarch/iNiR/commit/4e2aae86513f8886d360e7a44b74c5bc8da80677) · `2026.10.01` · `14:30`<br>
-fix(recording): recenter OSD until drag
+[`7e3f2df`](https://github.com/snowarch/iNiR/commit/7e3f2df69bb01fd47a6b1e7e3e84b37f5507eeb5) · `2026.10.08` · `10:31`<br>
+feat(void): first-class Void Linux support (#283)
 
 ---
 
@@ -59,6 +59,9 @@ fix(recording): recenter OSD until drag
 ## LOG / RECENT
 
 ```text
+2026.10.08 10:31  7e3f2df  iNiR
+  feat(void): first-class Void Linux support (#283)
+
 2026.10.01 14:30  4e2aae8  iNiR
   fix(recording): recenter OSD until drag
 
@@ -76,9 +79,6 @@ fix(recording): recenter OSD until drag
 
 2026.09.27 10:07  d18b441  OSF-Atlas
   feat: generalize source record labels
-
-2026.09.27 09:55  98e458c  OSF-Atlas
-  data: ingest OSF 081-090
 ```
 
 ---
