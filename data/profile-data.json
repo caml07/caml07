@@ -9,7 +9,7 @@
     "url": "https://github.com/caml07/iNiR"
   },
   "contributions": 329,
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-12",
   "languages": {
     "CSS": 24836,
     "GLSL": 59829,
@@ -33,7 +33,6 @@
   },
   "login": "caml07",
   "moss_weeks": [
-    0,
     0,
     0,
     0,
@@ -85,7 +84,8 @@
     27,
     39,
     3,
-    2
+    2,
+    0
   ],
   "public_repos": 5,
   "recent_commits": [
