@@ -93,4 +93,4 @@ feat(void): first-class Void Linux support (#283)
 
 ---
 
-<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.10.23 · CAM / 07</sub>
+<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.10.24 · CAM / 07</sub>
