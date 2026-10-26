@@ -13,44 +13,44 @@
 <circle data-week="1" cx="44.23" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="2" cx="60.46" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="3" cx="76.69" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<circle data-week="4" cx="92.92" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<g data-week="5" data-total="22">
-<path d="M 109.15 184.00 Q 104.45 149.73 113.86 115.46" fill="none" stroke="#535d4d" stroke-width="1.32" stroke-linecap="round"/>
-<line x1="109.94" y1="172.58" x2="115.19" y2="171.38" stroke="#60695a" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="117.30" cy="170.48" rx="4.22" ry="1.96" transform="rotate(28 117.30 170.48)" fill="#60695a" opacity="0.56"/>
-<line x1="110.72" y1="161.15" x2="105.05" y2="159.95" stroke="#60695a" stroke-width=".7" opacity="0.70"/>
-<ellipse cx="102.10" cy="159.05" rx="5.90" ry="2.60" transform="rotate(-28 102.10 159.05)" fill="#60695a" opacity="0.70"/>
-<line x1="111.51" y1="149.73" x2="117.29" y2="148.53" stroke="#60695a" stroke-width=".7" opacity="0.73"/>
-<ellipse cx="120.45" cy="147.63" rx="6.32" ry="2.76" transform="rotate(28 120.45 147.63)" fill="#60695a" opacity="0.73"/>
-<line x1="112.29" y1="138.31" x2="106.62" y2="137.11" stroke="#60695a" stroke-width=".7" opacity="0.70"/>
-<ellipse cx="103.67" cy="136.21" rx="5.90" ry="2.60" transform="rotate(-28 103.67 136.21)" fill="#60695a" opacity="0.70"/>
-<line x1="113.07" y1="126.88" x2="118.75" y2="125.68" stroke="#60695a" stroke-width=".7" opacity="0.70"/>
-<ellipse cx="121.70" cy="124.78" rx="5.90" ry="2.60" transform="rotate(28 121.70 124.78)" fill="#60695a" opacity="0.70"/>
+<g data-week="4" data-total="22">
+<path d="M 92.92 184.00 Q 92.17 149.73 93.67 115.46" fill="none" stroke="#535d4d" stroke-width="1.32" stroke-linecap="round"/>
+<line x1="93.05" y1="172.58" x2="87.79" y2="171.38" stroke="#60695a" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="85.68" cy="170.48" rx="4.22" ry="1.96" transform="rotate(-28 85.68 170.48)" fill="#60695a" opacity="0.56"/>
+<line x1="93.17" y1="161.15" x2="98.85" y2="159.95" stroke="#60695a" stroke-width=".7" opacity="0.70"/>
+<ellipse cx="101.80" cy="159.05" rx="5.90" ry="2.60" transform="rotate(28 101.80 159.05)" fill="#60695a" opacity="0.70"/>
+<line x1="93.30" y1="149.73" x2="87.52" y2="148.53" stroke="#60695a" stroke-width=".7" opacity="0.73"/>
+<ellipse cx="84.36" cy="147.63" rx="6.32" ry="2.76" transform="rotate(-28 84.36 147.63)" fill="#60695a" opacity="0.73"/>
+<line x1="93.42" y1="138.31" x2="99.10" y2="137.11" stroke="#60695a" stroke-width=".7" opacity="0.70"/>
+<ellipse cx="102.05" cy="136.21" rx="5.90" ry="2.60" transform="rotate(28 102.05 136.21)" fill="#60695a" opacity="0.70"/>
+<line x1="93.55" y1="126.88" x2="87.87" y2="125.68" stroke="#60695a" stroke-width=".7" opacity="0.70"/>
+<ellipse cx="84.92" cy="124.78" rx="5.90" ry="2.60" transform="rotate(-28 84.92 124.78)" fill="#60695a" opacity="0.70"/>
 </g>
-<g data-week="6" data-total="29">
-<path d="M 125.38 184.00 Q 126.60 145.69 124.17 107.38" fill="none" stroke="#535d4d" stroke-width="1.40" stroke-linecap="round"/>
-<line x1="125.21" y1="173.05" x2="119.85" y2="171.85" stroke="#60695a" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="117.53" cy="170.95" rx="4.64" ry="2.12" transform="rotate(-28 117.53 170.95)" fill="#60695a" opacity="0.59"/>
-<line x1="125.04" y1="162.11" x2="130.29" y2="160.91" stroke="#60695a" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="132.40" cy="160.01" rx="4.22" ry="1.96" transform="rotate(28 132.40 160.01)" fill="#60695a" opacity="0.56"/>
-<line x1="124.86" y1="151.16" x2="118.66" y2="149.96" stroke="#60695a" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="114.66" cy="149.06" rx="8.00" ry="3.40" transform="rotate(-28 114.66 149.06)" fill="#60695a" opacity="0.87"/>
-<line x1="124.69" y1="140.22" x2="130.37" y2="139.02" stroke="#60695a" stroke-width=".7" opacity="0.70"/>
-<ellipse cx="133.32" cy="138.12" rx="5.90" ry="2.60" transform="rotate(28 133.32 138.12)" fill="#60695a" opacity="0.70"/>
-<line x1="124.52" y1="129.27" x2="119.16" y2="128.07" stroke="#60695a" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="116.84" cy="127.17" rx="4.64" ry="2.12" transform="rotate(-28 116.84 127.17)" fill="#60695a" opacity="0.59"/>
-<line x1="124.34" y1="118.33" x2="130.33" y2="117.13" stroke="#60695a" stroke-width=".7" opacity="0.80"/>
-<ellipse cx="133.91" cy="116.23" rx="7.16" ry="3.08" transform="rotate(28 133.91 116.23)" fill="#60695a" opacity="0.80"/>
+<g data-week="5" data-total="29">
+<path d="M 109.15 184.00 Q 104.04 145.69 114.27 107.38" fill="none" stroke="#535d4d" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="109.88" y1="173.05" x2="115.24" y2="171.85" stroke="#60695a" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="117.56" cy="170.95" rx="4.64" ry="2.12" transform="rotate(28 117.56 170.95)" fill="#60695a" opacity="0.59"/>
+<line x1="110.61" y1="162.11" x2="105.36" y2="160.91" stroke="#60695a" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="103.25" cy="160.01" rx="4.22" ry="1.96" transform="rotate(-28 103.25 160.01)" fill="#60695a" opacity="0.56"/>
+<line x1="111.34" y1="151.16" x2="117.54" y2="149.96" stroke="#60695a" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="121.54" cy="149.06" rx="8.00" ry="3.40" transform="rotate(28 121.54 149.06)" fill="#60695a" opacity="0.87"/>
+<line x1="112.07" y1="140.22" x2="106.40" y2="139.02" stroke="#60695a" stroke-width=".7" opacity="0.70"/>
+<ellipse cx="103.45" cy="138.12" rx="5.90" ry="2.60" transform="rotate(-28 103.45 138.12)" fill="#60695a" opacity="0.70"/>
+<line x1="112.80" y1="129.27" x2="118.16" y2="128.07" stroke="#60695a" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="120.48" cy="127.17" rx="4.64" ry="2.12" transform="rotate(28 120.48 127.17)" fill="#60695a" opacity="0.59"/>
+<line x1="113.53" y1="118.33" x2="107.54" y2="117.13" stroke="#60695a" stroke-width=".7" opacity="0.80"/>
+<ellipse cx="103.96" cy="116.23" rx="7.16" ry="3.08" transform="rotate(-28 103.96 116.23)" fill="#60695a" opacity="0.80"/>
 </g>
-<g data-week="7" data-total="12">
-<path d="M 141.62 184.00 Q 145.53 156.86 137.70 129.72" fill="none" stroke="#535d4d" stroke-width="1.19" stroke-linecap="round"/>
-<line x1="140.64" y1="170.43" x2="146.00" y2="169.23" stroke="#60695a" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="148.32" cy="168.33" rx="4.64" ry="2.12" transform="rotate(28 148.32 168.33)" fill="#60695a" opacity="0.59"/>
-<line x1="139.66" y1="156.86" x2="133.67" y2="155.66" stroke="#60695a" stroke-width=".7" opacity="0.80"/>
-<ellipse cx="130.09" cy="154.76" rx="7.16" ry="3.08" transform="rotate(-28 130.09 154.76)" fill="#60695a" opacity="0.80"/>
-<line x1="138.68" y1="143.29" x2="144.04" y2="142.09" stroke="#60695a" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="146.36" cy="141.19" rx="4.64" ry="2.12" transform="rotate(28 146.36 141.19)" fill="#60695a" opacity="0.59"/>
+<g data-week="6" data-total="12">
+<path d="M 125.38 184.00 Q 126.33 156.86 124.44 129.72" fill="none" stroke="#535d4d" stroke-width="1.19" stroke-linecap="round"/>
+<line x1="125.15" y1="170.43" x2="119.79" y2="169.23" stroke="#60695a" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="117.47" cy="168.33" rx="4.64" ry="2.12" transform="rotate(-28 117.47 168.33)" fill="#60695a" opacity="0.59"/>
+<line x1="124.91" y1="156.86" x2="130.90" y2="155.66" stroke="#60695a" stroke-width=".7" opacity="0.80"/>
+<ellipse cx="134.48" cy="154.76" rx="7.16" ry="3.08" transform="rotate(28 134.48 154.76)" fill="#60695a" opacity="0.80"/>
+<line x1="124.67" y1="143.29" x2="119.31" y2="142.09" stroke="#60695a" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="116.99" cy="141.19" rx="4.64" ry="2.12" transform="rotate(-28 116.99 141.19)" fill="#60695a" opacity="0.59"/>
 </g>
+<circle data-week="7" cx="141.62" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="8" cx="157.85" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="9" cx="174.08" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="10" cx="190.31" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
@@ -62,176 +62,174 @@
 <circle data-week="16" cx="287.69" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="17" cx="303.92" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="18" cx="320.15" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<circle data-week="19" cx="336.38" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<g data-week="20" data-total="6">
-<path d="M 352.62 184.00 Q 350.17 162.76 355.06 141.52" fill="none" stroke="#66725e" stroke-width="1.07" stroke-linecap="round"/>
-<line x1="353.43" y1="169.84" x2="347.75" y2="168.64" stroke="#75826a" stroke-width=".7" opacity="0.70"/>
-<ellipse cx="344.80" cy="167.74" rx="5.90" ry="2.60" transform="rotate(-28 344.80 167.74)" fill="#75826a" opacity="0.70"/>
-<line x1="354.24" y1="155.68" x2="359.50" y2="154.48" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="361.61" cy="153.58" rx="4.22" ry="1.96" transform="rotate(28 361.61 153.58)" fill="#75826a" opacity="0.56"/>
+<g data-week="19" data-total="6">
+<path d="M 336.38 184.00 Q 338.93 162.76 333.84 141.52" fill="none" stroke="#66725e" stroke-width="1.07" stroke-linecap="round"/>
+<line x1="335.54" y1="169.84" x2="341.21" y2="168.64" stroke="#75826a" stroke-width=".7" opacity="0.70"/>
+<ellipse cx="344.16" cy="167.74" rx="5.90" ry="2.60" transform="rotate(28 344.16 167.74)" fill="#75826a" opacity="0.70"/>
+<line x1="334.69" y1="155.68" x2="329.43" y2="154.48" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="327.32" cy="153.58" rx="4.22" ry="1.96" transform="rotate(-28 327.32 153.58)" fill="#75826a" opacity="0.56"/>
 </g>
-<g data-week="21" data-total="12">
-<path d="M 368.85 184.00 Q 366.08 156.86 371.61 129.72" fill="none" stroke="#66725e" stroke-width="1.19" stroke-linecap="round"/>
-<line x1="369.54" y1="170.43" x2="375.53" y2="169.23" stroke="#75826a" stroke-width=".7" opacity="0.80"/>
-<ellipse cx="379.11" cy="168.33" rx="7.16" ry="3.08" transform="rotate(28 379.11 168.33)" fill="#75826a" opacity="0.80"/>
-<line x1="370.23" y1="156.86" x2="364.87" y2="155.66" stroke="#75826a" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="362.55" cy="154.76" rx="4.64" ry="2.12" transform="rotate(-28 362.55 154.76)" fill="#75826a" opacity="0.59"/>
-<line x1="370.92" y1="143.29" x2="376.28" y2="142.09" stroke="#75826a" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="378.60" cy="141.19" rx="4.64" ry="2.12" transform="rotate(28 378.60 141.19)" fill="#75826a" opacity="0.59"/>
+<g data-week="20" data-total="12">
+<path d="M 352.62 184.00 Q 349.74 156.86 355.49 129.72" fill="none" stroke="#66725e" stroke-width="1.19" stroke-linecap="round"/>
+<line x1="353.33" y1="170.43" x2="347.34" y2="169.23" stroke="#75826a" stroke-width=".7" opacity="0.80"/>
+<ellipse cx="343.76" cy="168.33" rx="7.16" ry="3.08" transform="rotate(-28 343.76 168.33)" fill="#75826a" opacity="0.80"/>
+<line x1="354.05" y1="156.86" x2="359.41" y2="155.66" stroke="#75826a" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="361.73" cy="154.76" rx="4.64" ry="2.12" transform="rotate(28 361.73 154.76)" fill="#75826a" opacity="0.59"/>
+<line x1="354.77" y1="143.29" x2="349.41" y2="142.09" stroke="#75826a" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="347.09" cy="141.19" rx="4.64" ry="2.12" transform="rotate(-28 347.09 141.19)" fill="#75826a" opacity="0.59"/>
 </g>
-<g data-week="22" data-total="10">
-<path d="M 385.08 184.00 Q 388.03 158.62 382.13 133.23" fill="none" stroke="#66725e" stroke-width="1.15" stroke-linecap="round"/>
-<line x1="384.34" y1="171.31" x2="379.08" y2="170.11" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="376.97" cy="169.21" rx="4.22" ry="1.96" transform="rotate(-28 376.97 169.21)" fill="#75826a" opacity="0.56"/>
-<line x1="383.60" y1="158.62" x2="389.59" y2="157.42" stroke="#75826a" stroke-width=".7" opacity="0.80"/>
-<ellipse cx="393.17" cy="156.52" rx="7.16" ry="3.08" transform="rotate(28 393.17 156.52)" fill="#75826a" opacity="0.80"/>
-<line x1="382.86" y1="145.92" x2="377.61" y2="144.72" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="375.50" cy="143.82" rx="4.22" ry="1.96" transform="rotate(-28 375.50 143.82)" fill="#75826a" opacity="0.56"/>
+<g data-week="21" data-total="10">
+<path d="M 368.85 184.00 Q 366.20 158.62 371.49 133.23" fill="none" stroke="#66725e" stroke-width="1.15" stroke-linecap="round"/>
+<line x1="369.51" y1="171.31" x2="374.76" y2="170.11" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="376.87" cy="169.21" rx="4.22" ry="1.96" transform="rotate(28 376.87 169.21)" fill="#75826a" opacity="0.56"/>
+<line x1="370.17" y1="158.62" x2="364.18" y2="157.42" stroke="#75826a" stroke-width=".7" opacity="0.80"/>
+<ellipse cx="360.60" cy="156.52" rx="7.16" ry="3.08" transform="rotate(-28 360.60 156.52)" fill="#75826a" opacity="0.80"/>
+<line x1="370.83" y1="145.92" x2="376.08" y2="144.72" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="378.19" cy="143.82" rx="4.22" ry="1.96" transform="rotate(28 378.19 143.82)" fill="#75826a" opacity="0.56"/>
 </g>
-<g data-week="23" data-total="4">
-<path d="M 401.31 184.00 Q 403.29 165.37 399.33 146.74" fill="none" stroke="#66725e" stroke-width="1.02" stroke-linecap="round"/>
-<line x1="400.32" y1="165.37" x2="405.89" y2="164.17" stroke="#75826a" stroke-width=".7" opacity="0.66"/>
-<ellipse cx="408.63" cy="163.27" rx="5.48" ry="2.44" transform="rotate(28 408.63 163.27)" fill="#75826a" opacity="0.66"/>
+<g data-week="22" data-total="4">
+<path d="M 385.08 184.00 Q 387.50 165.37 382.65 146.74" fill="none" stroke="#66725e" stroke-width="1.02" stroke-linecap="round"/>
+<line x1="383.86" y1="165.37" x2="378.29" y2="164.17" stroke="#75826a" stroke-width=".7" opacity="0.66"/>
+<ellipse cx="375.55" cy="163.27" rx="5.48" ry="2.44" transform="rotate(-28 375.55 163.27)" fill="#75826a" opacity="0.66"/>
 </g>
-<g data-week="24" data-total="14">
-<path d="M 417.54 184.00 Q 414.12 155.25 420.96 126.49" fill="none" stroke="#66725e" stroke-width="1.22" stroke-linecap="round"/>
-<line x1="418.39" y1="169.62" x2="412.72" y2="168.42" stroke="#75826a" stroke-width=".7" opacity="0.70"/>
-<ellipse cx="409.77" cy="167.52" rx="5.90" ry="2.60" transform="rotate(-28 409.77 167.52)" fill="#75826a" opacity="0.70"/>
-<line x1="419.25" y1="155.25" x2="425.24" y2="154.05" stroke="#75826a" stroke-width=".7" opacity="0.80"/>
-<ellipse cx="428.82" cy="153.15" rx="7.16" ry="3.08" transform="rotate(28 428.82 153.15)" fill="#75826a" opacity="0.80"/>
-<line x1="420.10" y1="140.87" x2="414.85" y2="139.67" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="412.74" cy="138.77" rx="4.22" ry="1.96" transform="rotate(-28 412.74 138.77)" fill="#75826a" opacity="0.56"/>
+<g data-week="23" data-total="14">
+<path d="M 401.31 184.00 Q 403.93 155.25 398.68 126.49" fill="none" stroke="#66725e" stroke-width="1.22" stroke-linecap="round"/>
+<line x1="400.65" y1="169.62" x2="406.33" y2="168.42" stroke="#75826a" stroke-width=".7" opacity="0.70"/>
+<ellipse cx="409.28" cy="167.52" rx="5.90" ry="2.60" transform="rotate(28 409.28 167.52)" fill="#75826a" opacity="0.70"/>
+<line x1="400.00" y1="155.25" x2="394.01" y2="154.05" stroke="#75826a" stroke-width=".7" opacity="0.80"/>
+<ellipse cx="390.43" cy="153.15" rx="7.16" ry="3.08" transform="rotate(-28 390.43 153.15)" fill="#75826a" opacity="0.80"/>
+<line x1="399.34" y1="140.87" x2="404.59" y2="139.67" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="406.70" cy="138.77" rx="4.22" ry="1.96" transform="rotate(28 406.70 138.77)" fill="#75826a" opacity="0.56"/>
 </g>
-<g data-week="25" data-total="45">
-<path d="M 433.77 184.00 Q 430.43 138.00 437.11 92.00" fill="none" stroke="#66725e" stroke-width="1.55" stroke-linecap="round"/>
-<line x1="434.44" y1="165.60" x2="440.64" y2="164.40" stroke="#75826a" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="444.64" cy="163.50" rx="8.00" ry="3.40" transform="rotate(28 444.64 163.50)" fill="#75826a" opacity="0.87"/>
-<line x1="435.11" y1="147.20" x2="428.91" y2="146.00" stroke="#75826a" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="424.91" cy="145.10" rx="8.00" ry="3.40" transform="rotate(-28 424.91 145.10)" fill="#75826a" opacity="0.87"/>
-<line x1="435.77" y1="128.80" x2="441.34" y2="127.60" stroke="#75826a" stroke-width=".7" opacity="0.66"/>
-<ellipse cx="444.08" cy="126.70" rx="5.48" ry="2.44" transform="rotate(28 444.08 126.70)" fill="#75826a" opacity="0.66"/>
-<line x1="436.44" y1="110.40" x2="430.45" y2="109.20" stroke="#75826a" stroke-width=".7" opacity="0.80"/>
-<ellipse cx="426.87" cy="108.30" rx="7.16" ry="3.08" transform="rotate(-28 426.87 108.30)" fill="#75826a" opacity="0.80"/>
+<g data-week="24" data-total="45">
+<path d="M 417.54 184.00 Q 412.69 138.00 422.39 92.00" fill="none" stroke="#66725e" stroke-width="1.55" stroke-linecap="round"/>
+<line x1="418.51" y1="165.60" x2="412.31" y2="164.40" stroke="#75826a" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="408.31" cy="163.50" rx="8.00" ry="3.40" transform="rotate(-28 408.31 163.50)" fill="#75826a" opacity="0.87"/>
+<line x1="419.48" y1="147.20" x2="425.68" y2="146.00" stroke="#75826a" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="429.68" cy="145.10" rx="8.00" ry="3.40" transform="rotate(28 429.68 145.10)" fill="#75826a" opacity="0.87"/>
+<line x1="420.45" y1="128.80" x2="414.88" y2="127.60" stroke="#75826a" stroke-width=".7" opacity="0.66"/>
+<ellipse cx="412.14" cy="126.70" rx="5.48" ry="2.44" transform="rotate(-28 412.14 126.70)" fill="#75826a" opacity="0.66"/>
+<line x1="421.42" y1="110.40" x2="427.41" y2="109.20" stroke="#75826a" stroke-width=".7" opacity="0.80"/>
+<ellipse cx="430.99" cy="108.30" rx="7.16" ry="3.08" transform="rotate(28 430.99 108.30)" fill="#75826a" opacity="0.80"/>
 </g>
-<g data-week="26" data-total="3">
-<path d="M 450.00 184.00 Q 452.58 166.93 447.42 149.86" fill="none" stroke="#66725e" stroke-width="0.99" stroke-linecap="round"/>
-<line x1="449.14" y1="172.62" x2="443.88" y2="171.42" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="441.77" cy="170.52" rx="4.22" ry="1.96" transform="rotate(-28 441.77 170.52)" fill="#75826a" opacity="0.56"/>
-<line x1="448.28" y1="161.24" x2="453.64" y2="160.04" stroke="#75826a" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="455.96" cy="159.14" rx="4.64" ry="2.12" transform="rotate(28 455.96 159.14)" fill="#75826a" opacity="0.59"/>
+<g data-week="25" data-total="3">
+<path d="M 433.77 184.00 Q 432.08 166.93 435.46 149.86" fill="none" stroke="#66725e" stroke-width="0.99" stroke-linecap="round"/>
+<line x1="434.33" y1="172.62" x2="439.59" y2="171.42" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="441.70" cy="170.52" rx="4.22" ry="1.96" transform="rotate(28 441.70 170.52)" fill="#75826a" opacity="0.56"/>
+<line x1="434.90" y1="161.24" x2="429.54" y2="160.04" stroke="#75826a" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="427.22" cy="159.14" rx="4.64" ry="2.12" transform="rotate(-28 427.22 159.14)" fill="#75826a" opacity="0.59"/>
 </g>
-<circle data-week="27" cx="466.23" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<g data-week="28" data-total="29">
-<path d="M 482.46 184.00 Q 477.82 145.69 487.10 107.38" fill="none" stroke="#66725e" stroke-width="1.40" stroke-linecap="round"/>
-<line x1="484.01" y1="158.46" x2="478.33" y2="157.26" stroke="#75826a" stroke-width=".7" opacity="0.70"/>
-<ellipse cx="475.38" cy="156.36" rx="5.90" ry="2.60" transform="rotate(-28 475.38 156.36)" fill="#75826a" opacity="0.70"/>
-<line x1="485.55" y1="132.92" x2="491.75" y2="131.72" stroke="#75826a" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="495.75" cy="130.82" rx="8.00" ry="3.40" transform="rotate(28 495.75 130.82)" fill="#75826a" opacity="0.87"/>
+<circle data-week="26" cx="450.00" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
+<g data-week="27" data-total="29">
+<path d="M 466.23 184.00 Q 468.79 145.69 463.68 107.38" fill="none" stroke="#66725e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="465.38" y1="158.46" x2="471.05" y2="157.26" stroke="#75826a" stroke-width=".7" opacity="0.70"/>
+<ellipse cx="474.00" cy="156.36" rx="5.90" ry="2.60" transform="rotate(28 474.00 156.36)" fill="#75826a" opacity="0.70"/>
+<line x1="464.53" y1="132.92" x2="458.33" y2="131.72" stroke="#75826a" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="454.33" cy="130.82" rx="8.00" ry="3.40" transform="rotate(-28 454.33 130.82)" fill="#75826a" opacity="0.87"/>
 </g>
+<circle data-week="28" cx="482.46" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="29" cx="498.69" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="30" cx="514.92" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="31" cx="531.15" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<circle data-week="32" cx="547.38" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<g data-week="33" data-total="1">
-<path d="M 563.62 184.00 Q 562.91 171.19 564.33 158.37" fill="none" stroke="#66725e" stroke-width="0.91" stroke-linecap="round"/>
-<line x1="563.97" y1="171.19" x2="569.23" y2="169.99" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="571.34" cy="169.09" rx="4.22" ry="1.96" transform="rotate(28 571.34 169.09)" fill="#75826a" opacity="0.56"/>
+<g data-week="32" data-total="1">
+<path d="M 547.38 184.00 Q 544.92 171.19 549.85 158.37" fill="none" stroke="#66725e" stroke-width="0.91" stroke-linecap="round"/>
+<line x1="548.62" y1="171.19" x2="543.36" y2="169.99" stroke="#75826a" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="541.25" cy="169.09" rx="4.22" ry="1.96" transform="rotate(-28 541.25 169.09)" fill="#75826a" opacity="0.56"/>
 </g>
-<g data-week="34" data-total="2">
-<path d="M 579.85 184.00 Q 582.61 168.78 577.08 153.56" fill="none" stroke="#66725e" stroke-width="0.96" stroke-linecap="round"/>
-<line x1="578.46" y1="168.78" x2="573.10" y2="167.58" stroke="#75826a" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="570.78" cy="166.68" rx="4.64" ry="2.12" transform="rotate(-28 570.78 166.68)" fill="#75826a" opacity="0.59"/>
+<g data-week="33" data-total="2">
+<path d="M 563.62 184.00 Q 562.84 168.78 564.39 153.56" fill="none" stroke="#66725e" stroke-width="0.96" stroke-linecap="round"/>
+<line x1="564.00" y1="168.78" x2="569.36" y2="167.58" stroke="#75826a" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="571.68" cy="166.68" rx="4.64" ry="2.12" transform="rotate(28 571.68 166.68)" fill="#75826a" opacity="0.59"/>
 </g>
+<circle data-week="34" cx="579.85" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="35" cx="596.08" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="36" cx="612.31" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <circle data-week="37" cx="628.54" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<circle data-week="38" cx="644.77" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<g data-week="39" data-total="2">
-<path d="M 661.00 184.00 Q 661.12 168.78 660.88 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
-<line x1="660.94" y1="168.78" x2="666.30" y2="167.58" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="668.62" cy="166.68" rx="4.64" ry="2.12" transform="rotate(28 668.62 166.68)" fill="#91b36b" opacity="0.59"/>
+<g data-week="38" data-total="2">
+<path d="M 644.77 184.00 Q 647.60 168.78 641.94 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
+<line x1="643.35" y1="168.78" x2="637.99" y2="167.58" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="635.67" cy="166.68" rx="4.64" ry="2.12" transform="rotate(-28 635.67 166.68)" fill="#91b36b" opacity="0.59"/>
 </g>
-<g data-week="40" data-total="9">
-<path d="M 677.23 184.00 Q 673.44 159.56 681.02 135.12" fill="none" stroke="#91b36b" stroke-width="1.14" stroke-linecap="round"/>
-<line x1="678.49" y1="167.71" x2="673.24" y2="166.51" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="671.13" cy="165.61" rx="4.22" ry="1.96" transform="rotate(-28 671.13 165.61)" fill="#91b36b" opacity="0.56"/>
-<line x1="679.76" y1="151.41" x2="685.75" y2="150.21" stroke="#91b36b" stroke-width=".7" opacity="0.80"/>
-<ellipse cx="689.33" cy="149.31" rx="7.16" ry="3.08" transform="rotate(28 689.33 149.31)" fill="#91b36b" opacity="0.80"/>
+<g data-week="39" data-total="9">
+<path d="M 661.00 184.00 Q 661.16 159.56 660.84 135.12" fill="none" stroke="#91b36b" stroke-width="1.14" stroke-linecap="round"/>
+<line x1="660.95" y1="167.71" x2="666.20" y2="166.51" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="668.31" cy="165.61" rx="4.22" ry="1.96" transform="rotate(28 668.31 165.61)" fill="#91b36b" opacity="0.56"/>
+<line x1="660.89" y1="151.41" x2="654.90" y2="150.21" stroke="#91b36b" stroke-width=".7" opacity="0.80"/>
+<ellipse cx="651.32" cy="149.31" rx="7.16" ry="3.08" transform="rotate(-28 651.32 149.31)" fill="#91b36b" opacity="0.80"/>
 </g>
-<circle data-week="41" cx="693.46" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<g data-week="42" data-total="3">
-<path d="M 709.69 184.00 Q 712.72 166.93 706.67 149.86" fill="none" stroke="#91b36b" stroke-width="0.99" stroke-linecap="round"/>
-<line x1="708.68" y1="172.62" x2="703.43" y2="171.42" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="701.32" cy="170.52" rx="4.22" ry="1.96" transform="rotate(-28 701.32 170.52)" fill="#91b36b" opacity="0.56"/>
-<line x1="707.68" y1="161.24" x2="713.04" y2="160.04" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="715.36" cy="159.14" rx="4.64" ry="2.12" transform="rotate(28 715.36 159.14)" fill="#91b36b" opacity="0.59"/>
+<circle data-week="40" cx="677.23" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
+<g data-week="41" data-total="3">
+<path d="M 693.46 184.00 Q 693.57 166.93 693.35 149.86" fill="none" stroke="#91b36b" stroke-width="0.99" stroke-linecap="round"/>
+<line x1="693.42" y1="172.62" x2="698.68" y2="171.42" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="700.79" cy="170.52" rx="4.22" ry="1.96" transform="rotate(28 700.79 170.52)" fill="#91b36b" opacity="0.56"/>
+<line x1="693.39" y1="161.24" x2="688.03" y2="160.04" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="685.71" cy="159.14" rx="4.64" ry="2.12" transform="rotate(-28 685.71 159.14)" fill="#91b36b" opacity="0.59"/>
 </g>
-<g data-week="43" data-total="2">
-<path d="M 725.92 184.00 Q 725.60 168.78 726.25 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
-<line x1="726.03" y1="173.85" x2="731.29" y2="172.65" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="733.40" cy="171.75" rx="4.22" ry="1.96" transform="rotate(28 733.40 171.75)" fill="#91b36b" opacity="0.56"/>
-<line x1="726.14" y1="163.70" x2="720.89" y2="162.50" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="718.78" cy="161.60" rx="4.22" ry="1.96" transform="rotate(-28 718.78 161.60)" fill="#91b36b" opacity="0.56"/>
+<g data-week="42" data-total="2">
+<path d="M 709.69 184.00 Q 712.53 168.78 706.86 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
+<line x1="708.75" y1="173.85" x2="703.49" y2="172.65" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="701.38" cy="171.75" rx="4.22" ry="1.96" transform="rotate(-28 701.38 171.75)" fill="#91b36b" opacity="0.56"/>
+<line x1="707.80" y1="163.70" x2="713.06" y2="162.50" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="715.17" cy="161.60" rx="4.22" ry="1.96" transform="rotate(28 715.17 161.60)" fill="#91b36b" opacity="0.56"/>
 </g>
-<g data-week="44" data-total="37">
-<path d="M 742.15 184.00 Q 736.59 141.64 747.71 99.27" fill="none" stroke="#91b36b" stroke-width="1.48" stroke-linecap="round"/>
-<line x1="744.01" y1="155.76" x2="737.81" y2="154.56" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="733.81" cy="153.66" rx="8.00" ry="3.40" transform="rotate(-28 733.81 153.66)" fill="#91b36b" opacity="0.87"/>
-<line x1="745.86" y1="127.51" x2="751.22" y2="126.31" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="753.54" cy="125.41" rx="4.64" ry="2.12" transform="rotate(28 753.54 125.41)" fill="#91b36b" opacity="0.59"/>
+<g data-week="43" data-total="37">
+<path d="M 725.92 184.00 Q 725.28 141.64 726.57 99.27" fill="none" stroke="#91b36b" stroke-width="1.48" stroke-linecap="round"/>
+<line x1="726.14" y1="155.76" x2="732.34" y2="154.56" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="736.34" cy="153.66" rx="8.00" ry="3.40" transform="rotate(28 736.34 153.66)" fill="#91b36b" opacity="0.87"/>
+<line x1="726.35" y1="127.51" x2="720.99" y2="126.31" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="718.67" cy="125.41" rx="4.64" ry="2.12" transform="rotate(-28 718.67 125.41)" fill="#91b36b" opacity="0.59"/>
 </g>
-<g data-week="45" data-total="2">
-<path d="M 758.38 184.00 Q 758.93 168.78 757.84 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
-<line x1="758.11" y1="168.78" x2="763.47" y2="167.58" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="765.79" cy="166.68" rx="4.64" ry="2.12" transform="rotate(28 765.79 166.68)" fill="#91b36b" opacity="0.59"/>
+<g data-week="44" data-total="2">
+<path d="M 742.15 184.00 Q 739.34 168.78 744.96 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
+<line x1="743.56" y1="168.78" x2="738.20" y2="167.58" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="735.88" cy="166.68" rx="4.64" ry="2.12" transform="rotate(-28 735.88 166.68)" fill="#91b36b" opacity="0.59"/>
 </g>
-<g data-week="46" data-total="14">
-<path d="M 774.62 184.00 Q 778.73 155.25 770.50 126.49" fill="none" stroke="#91b36b" stroke-width="1.22" stroke-linecap="round"/>
-<line x1="773.59" y1="169.62" x2="768.33" y2="168.42" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="766.22" cy="167.52" rx="4.22" ry="1.96" transform="rotate(-28 766.22 167.52)" fill="#91b36b" opacity="0.56"/>
-<line x1="772.56" y1="155.25" x2="777.92" y2="154.05" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
-<ellipse cx="780.24" cy="153.15" rx="4.64" ry="2.12" transform="rotate(28 780.24 153.15)" fill="#91b36b" opacity="0.59"/>
-<line x1="771.53" y1="140.87" x2="765.33" y2="139.67" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="761.33" cy="138.77" rx="8.00" ry="3.40" transform="rotate(-28 761.33 138.77)" fill="#91b36b" opacity="0.87"/>
+<g data-week="45" data-total="14">
+<path d="M 758.38 184.00 Q 759.20 155.25 757.57 126.49" fill="none" stroke="#91b36b" stroke-width="1.22" stroke-linecap="round"/>
+<line x1="758.18" y1="169.62" x2="763.44" y2="168.42" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="765.55" cy="167.52" rx="4.22" ry="1.96" transform="rotate(28 765.55 167.52)" fill="#91b36b" opacity="0.56"/>
+<line x1="757.98" y1="155.25" x2="752.62" y2="154.05" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="750.30" cy="153.15" rx="4.64" ry="2.12" transform="rotate(-28 750.30 153.15)" fill="#91b36b" opacity="0.59"/>
+<line x1="757.77" y1="140.87" x2="763.97" y2="139.67" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="767.97" cy="138.77" rx="8.00" ry="3.40" transform="rotate(28 767.97 138.77)" fill="#91b36b" opacity="0.87"/>
 </g>
-<g data-week="47" data-total="27">
-<path d="M 790.85 184.00 Q 789.48 146.79 792.21 109.58" fill="none" stroke="#91b36b" stroke-width="1.38" stroke-linecap="round"/>
-<line x1="791.19" y1="165.40" x2="796.44" y2="164.20" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="798.55" cy="163.30" rx="4.22" ry="1.96" transform="rotate(28 798.55 163.30)" fill="#91b36b" opacity="0.56"/>
-<line x1="791.53" y1="146.79" x2="786.28" y2="145.59" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="784.17" cy="144.69" rx="4.22" ry="1.96" transform="rotate(-28 784.17 144.69)" fill="#91b36b" opacity="0.56"/>
-<line x1="791.87" y1="128.19" x2="798.07" y2="126.99" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="802.07" cy="126.09" rx="8.00" ry="3.40" transform="rotate(28 802.07 126.09)" fill="#91b36b" opacity="0.87"/>
+<g data-week="46" data-total="27">
+<path d="M 774.62 184.00 Q 779.58 146.79 769.65 109.58" fill="none" stroke="#91b36b" stroke-width="1.38" stroke-linecap="round"/>
+<line x1="773.38" y1="165.40" x2="768.12" y2="164.20" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="766.01" cy="163.30" rx="4.22" ry="1.96" transform="rotate(-28 766.01 163.30)" fill="#91b36b" opacity="0.56"/>
+<line x1="772.13" y1="146.79" x2="777.39" y2="145.59" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="779.50" cy="144.69" rx="4.22" ry="1.96" transform="rotate(28 779.50 144.69)" fill="#91b36b" opacity="0.56"/>
+<line x1="770.89" y1="128.19" x2="764.69" y2="126.99" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="760.69" cy="126.09" rx="8.00" ry="3.40" transform="rotate(-28 760.69 126.09)" fill="#91b36b" opacity="0.87"/>
 </g>
-<g data-week="48" data-total="39">
-<path d="M 807.08 184.00 Q 801.63 140.69 812.53 97.39" fill="none" stroke="#91b36b" stroke-width="1.50" stroke-linecap="round"/>
-<line x1="808.44" y1="162.35" x2="803.18" y2="161.15" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="801.07" cy="160.25" rx="4.22" ry="1.96" transform="rotate(-28 801.07 160.25)" fill="#91b36b" opacity="0.56"/>
-<line x1="809.80" y1="140.69" x2="816.00" y2="139.49" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="820.00" cy="138.59" rx="8.00" ry="3.40" transform="rotate(28 820.00 138.59)" fill="#91b36b" opacity="0.87"/>
-<line x1="811.16" y1="119.04" x2="804.96" y2="117.84" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
-<ellipse cx="800.96" cy="116.94" rx="8.00" ry="3.40" transform="rotate(-28 800.96 116.94)" fill="#91b36b" opacity="0.87"/>
+<g data-week="47" data-total="39">
+<path d="M 790.85 184.00 Q 789.31 140.69 792.38 97.39" fill="none" stroke="#91b36b" stroke-width="1.50" stroke-linecap="round"/>
+<line x1="791.23" y1="162.35" x2="796.49" y2="161.15" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="798.60" cy="160.25" rx="4.22" ry="1.96" transform="rotate(28 798.60 160.25)" fill="#91b36b" opacity="0.56"/>
+<line x1="791.61" y1="140.69" x2="785.41" y2="139.49" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="781.41" cy="138.59" rx="8.00" ry="3.40" transform="rotate(-28 781.41 138.59)" fill="#91b36b" opacity="0.87"/>
+<line x1="792.00" y1="119.04" x2="798.20" y2="117.84" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="802.20" cy="116.94" rx="8.00" ry="3.40" transform="rotate(28 802.20 116.94)" fill="#91b36b" opacity="0.87"/>
 </g>
-<g data-week="49" data-total="3">
-<path d="M 823.31 184.00 Q 824.35 166.93 822.27 149.86" fill="none" stroke="#91b36b" stroke-width="0.99" stroke-linecap="round"/>
-<line x1="822.79" y1="166.93" x2="828.25" y2="165.73" stroke="#91b36b" stroke-width=".7" opacity="0.62"/>
-<ellipse cx="830.78" cy="164.83" rx="5.06" ry="2.28" transform="rotate(28 830.78 164.83)" fill="#91b36b" opacity="0.62"/>
+<g data-week="48" data-total="3">
+<path d="M 807.08 184.00 Q 804.19 166.93 809.96 149.86" fill="none" stroke="#91b36b" stroke-width="0.99" stroke-linecap="round"/>
+<line x1="808.52" y1="166.93" x2="803.06" y2="165.73" stroke="#91b36b" stroke-width=".7" opacity="0.62"/>
+<ellipse cx="800.53" cy="164.83" rx="5.06" ry="2.28" transform="rotate(-28 800.53 164.83)" fill="#91b36b" opacity="0.62"/>
 </g>
-<g data-week="50" data-total="2">
-<path d="M 839.54 184.00 Q 842.17 168.78 836.91 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
-<line x1="838.66" y1="173.85" x2="833.41" y2="172.65" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="831.30" cy="171.75" rx="4.22" ry="1.96" transform="rotate(-28 831.30 171.75)" fill="#91b36b" opacity="0.56"/>
-<line x1="837.78" y1="163.70" x2="843.04" y2="162.50" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="845.15" cy="161.60" rx="4.22" ry="1.96" transform="rotate(28 845.15 161.60)" fill="#91b36b" opacity="0.56"/>
+<g data-week="49" data-total="2">
+<path d="M 823.31 184.00 Q 824.28 168.78 822.33 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
+<line x1="822.98" y1="173.85" x2="828.24" y2="172.65" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="830.35" cy="171.75" rx="4.22" ry="1.96" transform="rotate(28 830.35 171.75)" fill="#91b36b" opacity="0.56"/>
+<line x1="822.66" y1="163.70" x2="817.40" y2="162.50" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="815.29" cy="161.60" rx="4.22" ry="1.96" transform="rotate(-28 815.29 161.60)" fill="#91b36b" opacity="0.56"/>
 </g>
-<circle data-week="51" cx="855.77" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<g data-week="52" data-total="4">
-<path d="M 872.00 184.00 Q 869.15 165.37 874.85 146.74" fill="none" stroke="#91b36b" stroke-width="1.02" stroke-linecap="round"/>
-<line x1="873.42" y1="165.37" x2="867.85" y2="164.17" stroke="#91b36b" stroke-width=".7" opacity="0.66"/>
-<ellipse cx="865.11" cy="163.27" rx="5.48" ry="2.44" transform="rotate(-28 865.11 163.27)" fill="#91b36b" opacity="0.66"/>
-<circle cx="874.85" cy="146.74" r="3.4" fill="#e1a33b"/>
-<circle cx="874.85" cy="146.74" r="6.8" fill="none" stroke="#e1a33b" opacity=".24"/>
+<circle data-week="50" cx="839.54" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
+<g data-week="51" data-total="4">
+<path d="M 855.77 184.00 Q 854.44 165.37 857.10 146.74" fill="none" stroke="#91b36b" stroke-width="1.02" stroke-linecap="round"/>
+<line x1="856.43" y1="165.37" x2="862.00" y2="164.17" stroke="#91b36b" stroke-width=".7" opacity="0.66"/>
+<ellipse cx="864.74" cy="163.27" rx="5.48" ry="2.44" transform="rotate(28 864.74 163.27)" fill="#91b36b" opacity="0.66"/>
 </g>
+<circle data-week="52" cx="872.00" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
 <text x="28" y="212" class="mono caps" fill="#4e473d" font-size="8">OLD GROWTH</text>
 <text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 333 CONTRIBUTIONS</text>
 </svg>
