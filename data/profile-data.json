@@ -1,15 +1,15 @@
 {
   "active_repo": {
-    "description": "A Niri shell illogical-impulse based - with some modifications..",
-    "fork": true,
-    "language": "QML",
-    "name": "iNiR",
-    "pushed_at": "2026-10-08T13:31:17Z",
+    "description": "latest public work.",
+    "fork": false,
+    "language": "",
+    "name": "inir-hub",
+    "pushed_at": "2026-10-08T10:31:32.000-03:00",
     "stars": 0,
-    "url": "https://github.com/caml07/iNiR"
+    "url": "https://github.com/caml07?tab=repositories"
   },
   "contributions": 333,
-  "generated_at": "2026-10-26",
+  "generated_at": "2026-10-27",
   "languages": {
     "CSS": 24836,
     "GLSL": 59829,
@@ -27,9 +27,9 @@
   "latest_commit": {
     "date": "2026-10-08T10:31:32.000-03:00",
     "message": "feat(void): first-class Void Linux support (#283)",
-    "repo": "iNiR",
-    "sha": "7e3f2df",
-    "url": "https://github.com/snowarch/iNiR/commit/7e3f2df69bb01fd47a6b1e7e3e84b37f5507eeb5"
+    "repo": "inir-hub",
+    "sha": "e226c5a",
+    "url": "https://github.com/snowarch/inir-hub/commit/e226c5a870245af6b61a015c7526e78585710574"
   },
   "login": "caml07",
   "moss_weeks": [
@@ -92,6 +92,27 @@
     {
       "date": "2026-10-08T10:31:32.000-03:00",
       "message": "feat(void): first-class Void Linux support (#283)",
+      "repo": "inir-hub",
+      "sha": "e226c5a",
+      "url": "https://github.com/snowarch/inir-hub/commit/e226c5a870245af6b61a015c7526e78585710574"
+    },
+    {
+      "date": "2026-10-08T10:31:32.000-03:00",
+      "message": "feat(void): first-class Void Linux support (#283)",
+      "repo": "inir-hub",
+      "sha": "3ed818d",
+      "url": "https://github.com/snowarch/inir-hub/commit/3ed818d60f1eb6e49c92273f7f8faf425e48dc60"
+    },
+    {
+      "date": "2026-10-08T10:31:32.000-03:00",
+      "message": "feat(void): first-class Void Linux support (#283)",
+      "repo": "inir-hub",
+      "sha": "5ca6a79",
+      "url": "https://github.com/snowarch/inir-hub/commit/5ca6a7973b332f7088b82607849391f47ccb8ae7"
+    },
+    {
+      "date": "2026-10-08T10:31:32.000-03:00",
+      "message": "feat(void): first-class Void Linux support (#283)",
       "repo": "iNiR",
       "sha": "7e3f2df",
       "url": "https://github.com/snowarch/iNiR/commit/7e3f2df69bb01fd47a6b1e7e3e84b37f5507eeb5"
@@ -116,27 +137,6 @@
       "repo": "OSF-Atlas",
       "sha": "2cc1b77",
       "url": "https://github.com/caml07/OSF-Atlas/commit/2cc1b77dd8630179289c1ba2df69a19eed5c2ac2"
-    },
-    {
-      "date": "2026-09-27T10:12:04.000-06:00",
-      "message": "data: ingest OSF 101-110",
-      "repo": "OSF-Atlas",
-      "sha": "783dbf0",
-      "url": "https://github.com/caml07/OSF-Atlas/commit/783dbf024a6d663a5f1473a1a4b91a9d2acacce9"
-    },
-    {
-      "date": "2026-09-27T10:07:51.000-06:00",
-      "message": "data: ingest OSF 091-100",
-      "repo": "OSF-Atlas",
-      "sha": "f067505",
-      "url": "https://github.com/caml07/OSF-Atlas/commit/f067505422f22c39a77515ef79185a2c12e12d71"
-    },
-    {
-      "date": "2026-09-27T10:07:25.000-06:00",
-      "message": "feat: generalize source record labels",
-      "repo": "OSF-Atlas",
-      "sha": "d18b441",
-      "url": "https://github.com/caml07/OSF-Atlas/commit/d18b4419b08c4e9f541e12514c616436e7184ed0"
     }
   ],
   "repos": [
