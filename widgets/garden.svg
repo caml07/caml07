@@ -229,13 +229,17 @@
 <ellipse cx="829.75" cy="163.27" rx="5.48" ry="2.44" transform="rotate(-28 829.75 163.27)" fill="#91b36b" opacity="0.66"/>
 </g>
 <circle data-week="51" cx="855.77" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
-<g data-week="52" data-total="1">
-<path d="M 872.00 184.00 Q 869.68 171.19 874.32 158.37" fill="none" stroke="#91b36b" stroke-width="0.91" stroke-linecap="round"/>
-<line x1="873.16" y1="171.19" x2="867.90" y2="169.99" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="865.79" cy="169.09" rx="4.22" ry="1.96" transform="rotate(-28 865.79 169.09)" fill="#91b36b" opacity="0.56"/>
-<circle cx="874.32" cy="158.37" r="3.4" fill="#e1a33b"/>
-<circle cx="874.32" cy="158.37" r="6.8" fill="none" stroke="#e1a33b" opacity=".24"/>
+<g data-week="52" data-total="4">
+<path d="M 872.00 184.00 Q 869.15 165.37 874.85 146.74" fill="none" stroke="#91b36b" stroke-width="1.02" stroke-linecap="round"/>
+<line x1="872.71" y1="174.69" x2="867.46" y2="173.49" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="865.35" cy="172.59" rx="4.22" ry="1.96" transform="rotate(-28 865.35 172.59)" fill="#91b36b" opacity="0.56"/>
+<line x1="873.42" y1="165.37" x2="878.68" y2="164.17" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="880.79" cy="163.27" rx="4.22" ry="1.96" transform="rotate(28 880.79 163.27)" fill="#91b36b" opacity="0.56"/>
+<line x1="874.14" y1="156.06" x2="868.78" y2="154.86" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="866.46" cy="153.96" rx="4.64" ry="2.12" transform="rotate(-28 866.46 153.96)" fill="#91b36b" opacity="0.59"/>
+<circle cx="874.85" cy="146.74" r="3.4" fill="#e1a33b"/>
+<circle cx="874.85" cy="146.74" r="6.8" fill="none" stroke="#e1a33b" opacity=".24"/>
 </g>
 <text x="28" y="212" class="mono caps" fill="#4e473d" font-size="8">OLD GROWTH</text>
-<text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 334 CONTRIBUTIONS</text>
+<text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 337 CONTRIBUTIONS</text>
 </svg>
