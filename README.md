@@ -11,14 +11,14 @@
 
 ## DECK / NOW
 
-### [inir-hub](https://github.com/caml07?tab=repositories)
+### [iNiR](https://github.com/caml07/iNiR)
 
-latest public work.
+A Niri shell illogical-impulse based - with some modifications..
 
-`NO PRIMARY LANGUAGE` · `ORIGINAL` · `★ 0`
+`QML` · `FORK` · `★ 0`
 
 **LAST SIGNAL**<br>
-[`e226c5a`](https://github.com/snowarch/inir-hub/commit/e226c5a870245af6b61a015c7526e78585710574) · `2026.10.08` · `10:31`<br>
+[`7e3f2df`](https://github.com/EdgeLord69-dev/iNiR/commit/7e3f2df69bb01fd47a6b1e7e3e84b37f5507eeb5) · `2026.10.08` · `10:31`<br>
 feat(void): first-class Void Linux support (#283)
 
 ---
@@ -33,7 +33,7 @@ feat(void): first-class Void Linux support (#283)
 
 ## BANK / PUBLIC
 
-`  ○ 01` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
+`▌ ● 01` **[iNiR](https://github.com/caml07/iNiR)** `QML / NOW`
 <sub>A Niri shell illogical-impulse based - with some modifications..</sub>
 
 `  ○ 02` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / PUBLIC`
@@ -59,6 +59,9 @@ feat(void): first-class Void Linux support (#283)
 ## LOG / RECENT
 
 ```text
+2026.10.08 10:31  7e3f2df  iNiR
+  feat(void): first-class Void Linux support (#283)
+
 2026.10.08 10:31  e226c5a  inir-hub
   feat(void): first-class Void Linux support (#283)
 
@@ -76,9 +79,6 @@ feat(void): first-class Void Linux support (#283)
 
 2026.10.01 14:30  1e7e0ce  iNiR
   fix(recording): keep the OSD on every output
-
-2026.09.27 10:15  2cc1b77  OSF-Atlas
-  data: complete OSF corpus 111-125
 ```
 
 ---
