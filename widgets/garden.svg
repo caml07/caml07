@@ -237,7 +237,13 @@
 <line x1="856.76" y1="156.06" x2="862.12" y2="154.86" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
 <ellipse cx="864.44" cy="153.96" rx="4.64" ry="2.12" transform="rotate(28 864.44 153.96)" fill="#91b36b" opacity="0.59"/>
 </g>
-<circle data-week="52" cx="872.00" cy="184" r="1.25" fill="#4e473d" opacity=".5"/>
+<g data-week="52" data-total="2">
+<path d="M 872.00 184.00 Q 869.46 168.78 874.54 153.56" fill="none" stroke="#91b36b" stroke-width="0.96" stroke-linecap="round"/>
+<line x1="873.27" y1="168.78" x2="867.91" y2="167.58" stroke="#91b36b" stroke-width=".7" opacity="0.59"/>
+<ellipse cx="865.59" cy="166.68" rx="4.64" ry="2.12" transform="rotate(-28 865.59 166.68)" fill="#91b36b" opacity="0.59"/>
+<circle cx="874.54" cy="153.56" r="3.4" fill="#e1a33b"/>
+<circle cx="874.54" cy="153.56" r="6.8" fill="none" stroke="#e1a33b" opacity=".24"/>
+</g>
 <text x="28" y="212" class="mono caps" fill="#4e473d" font-size="8">OLD GROWTH</text>
-<text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 337 CONTRIBUTIONS</text>
+<text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 339 CONTRIBUTIONS</text>
 </svg>
