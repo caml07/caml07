@@ -1,12 +1,12 @@
 {
   "active_repo": {
-    "description": "latest public work.",
+    "description": "Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT",
     "fork": false,
     "language": "",
-    "name": "inir-hub",
-    "pushed_at": "2026-10-08T10:31:32.000-03:00",
+    "name": "FixIt",
+    "pushed_at": "2026-11-11T05:25:15Z",
     "stars": 0,
-    "url": "https://github.com/caml07?tab=repositories"
+    "url": "https://github.com/caml07/FixIt"
   },
   "contributions": 343,
   "generated_at": "2026-11-11",
@@ -25,11 +25,11 @@
     "TypeScript": 20521
   },
   "latest_commit": {
-    "date": "2026-10-08T10:31:32.000-03:00",
-    "message": "feat(void): first-class Void Linux support (#283)",
-    "repo": "inir-hub",
-    "sha": "e226c5a",
-    "url": "https://github.com/snowarch/inir-hub/commit/e226c5a870245af6b61a015c7526e78585710574"
+    "date": "2026-11-09T22:18:29.000-06:00",
+    "message": "chore: inicializar repositorio vac\u00edo",
+    "repo": "FixIt",
+    "sha": "b6803e2",
+    "url": "https://github.com/caml07/FixIt/commit/b6803e2bb23c1ef330fa6e4e0825770d64460833"
   },
   "login": "caml07",
   "moss_weeks": [
@@ -87,8 +87,15 @@
     4,
     6
   ],
-  "public_repos": 5,
+  "public_repos": 6,
   "recent_commits": [
+    {
+      "date": "2026-11-09T22:18:29.000-06:00",
+      "message": "chore: inicializar repositorio vac\u00edo",
+      "repo": "FixIt",
+      "sha": "b6803e2",
+      "url": "https://github.com/caml07/FixIt/commit/b6803e2bb23c1ef330fa6e4e0825770d64460833"
+    },
     {
       "date": "2026-10-08T10:31:32.000-03:00",
       "message": "feat(void): first-class Void Linux support (#283)",
@@ -130,16 +137,18 @@
       "repo": "iNiR",
       "sha": "1e7e0ce",
       "url": "https://github.com/snowarch/iNiR/commit/1e7e0cea7b9e52968db14a0f1a6371c4f97a7d1c"
-    },
-    {
-      "date": "2026-09-27T10:15:30.000-06:00",
-      "message": "data: complete OSF corpus 111-125",
-      "repo": "OSF-Atlas",
-      "sha": "2cc1b77",
-      "url": "https://github.com/caml07/OSF-Atlas/commit/2cc1b77dd8630179289c1ba2df69a19eed5c2ac2"
     }
   ],
   "repos": [
+    {
+      "description": "Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT",
+      "fork": false,
+      "language": "",
+      "name": "FixIt",
+      "pushed_at": "2026-11-11T05:25:15Z",
+      "stars": 0,
+      "url": "https://github.com/caml07/FixIt"
+    },
     {
       "description": "A Niri shell illogical-impulse based - with some modifications..",
       "fork": true,

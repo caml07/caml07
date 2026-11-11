@@ -11,15 +11,15 @@
 
 ## DECK / NOW
 
-### [inir-hub](https://github.com/caml07?tab=repositories)
+### [FixIt](https://github.com/caml07/FixIt)
 
-latest public work.
+Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT
 
 `NO PRIMARY LANGUAGE` · `ORIGINAL` · `★ 0`
 
 **LAST SIGNAL**<br>
-[`e226c5a`](https://github.com/snowarch/inir-hub/commit/e226c5a870245af6b61a015c7526e78585710574) · `2026.10.08` · `10:31`<br>
-feat(void): first-class Void Linux support (#283)
+[`b6803e2`](https://github.com/caml07/FixIt/commit/b6803e2bb23c1ef330fa6e4e0825770d64460833) · `2026.11.09` · `22:18`<br>
+chore: inicializar repositorio vacío
 
 ---
 
@@ -33,19 +33,22 @@ feat(void): first-class Void Linux support (#283)
 
 ## BANK / PUBLIC
 
-`  ○ 01` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
+`▌ ● 01` **[FixIt](https://github.com/caml07/FixIt)** `— / NOW`
+<sub>Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT</sub>
+
+`  ○ 02` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
 <sub>A Niri shell illogical-impulse based - with some modifications..</sub>
 
-`  ○ 02` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / PUBLIC`
+`  ○ 03` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / PUBLIC`
 <sub>An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.</sub>
 
-`  ○ 03` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
+`  ○ 04` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
 <sub>Una calculadora hecha con flask</sub>
 
-`  ○ 04` **[wayvibes-tui](https://github.com/caml07/wayvibes-tui)** `RUST / PUBLIC`
+`  ○ 05` **[wayvibes-tui](https://github.com/caml07/wayvibes-tui)** `RUST / PUBLIC`
 <sub>A native Linux terminal interface for WayVibes, built with Rust, Ratatui and Crossterm.</sub>
 
-`  ○ 05` **[spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)** `TYPESCRIPT / FORK`
+`  ○ 06` **[spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)** `TYPESCRIPT / FORK`
 <sub>A spicetify extension that lets a cat jam in sync with the beat of your music. UPDATED</sub>
 
 ---
@@ -59,6 +62,9 @@ feat(void): first-class Void Linux support (#283)
 ## LOG / RECENT
 
 ```text
+2026.11.09 22:18  b6803e2  FixIt
+  chore: inicializar repositorio vacío
+
 2026.10.08 10:31  e226c5a  inir-hub
   feat(void): first-class Void Linux support (#283)
 
@@ -76,9 +82,6 @@ feat(void): first-class Void Linux support (#283)
 
 2026.10.01 14:30  1e7e0ce  iNiR
   fix(recording): keep the OSD on every output
-
-2026.09.27 10:15  2cc1b77  OSF-Atlas
-  data: complete OSF corpus 111-125
 ```
 
 ---
