@@ -4,25 +4,31 @@
     "fork": false,
     "language": "",
     "name": "FixIt",
-    "pushed_at": "2026-11-17T23:10:55Z",
+    "pushed_at": "2026-11-18T17:46:16Z",
     "stars": 0,
     "url": "https://github.com/caml07/FixIt"
   },
   "contributions": 343,
   "generated_at": "2026-11-18",
   "languages": {
+    "Awk": 6162,
+    "Batchfile": 12503,
     "CSS": 24836,
     "GLSL": 59829,
     "Go": 105216,
-    "HTML": 2070,
-    "JavaScript": 359554,
+    "HTML": 193241,
+    "Java": 2717,
+    "JavaScript": 1218489,
     "Makefile": 3383,
+    "Mermaid": 21741,
     "Nix": 14554,
-    "Python": 867388,
+    "PowerShell": 960,
+    "Python": 908052,
     "QML": 16633059,
     "Rust": 128367,
-    "Shell": 1685814,
-    "TypeScript": 20521
+    "Shell": 1715457,
+    "TLA": 30612,
+    "TypeScript": 654354
   },
   "latest_commit": {
     "date": "2026-11-09T22:18:29.000-06:00",
@@ -87,7 +93,7 @@
     6,
     0
   ],
-  "public_repos": 6,
+  "public_repos": 7,
   "recent_commits": [
     {
       "date": "2026-11-09T22:18:29.000-06:00",
@@ -97,46 +103,46 @@
       "url": "https://github.com/caml07/FixIt/commit/b6803e2bb23c1ef330fa6e4e0825770d64460833"
     },
     {
-      "date": "2026-10-08T10:31:32.000-03:00",
-      "message": "feat(void): first-class Void Linux support (#283)",
-      "repo": "inir-hub",
-      "sha": "e226c5a",
-      "url": "https://github.com/snowarch/inir-hub/commit/e226c5a870245af6b61a015c7526e78585710574"
+      "date": "2026-11-09T13:09:57.000-06:00",
+      "message": "feat: redise\u00f1ar instalador y documentaci\u00f3n de CamSkills",
+      "repo": "camskills",
+      "sha": "24f9c85",
+      "url": "https://github.com/caml07/camskills/commit/24f9c85fd6d3aba832d9dcb87ad40b106b6132da"
     },
     {
-      "date": "2026-10-08T10:31:32.000-03:00",
-      "message": "feat(void): first-class Void Linux support (#283)",
-      "repo": "inir-hub",
-      "sha": "3ed818d",
-      "url": "https://github.com/snowarch/inir-hub/commit/3ed818d60f1eb6e49c92273f7f8faf425e48dc60"
+      "date": "2026-11-09T12:07:36.000-06:00",
+      "message": "feat: integrar Pstack y cam-route al workflow de skills",
+      "repo": "camskills",
+      "sha": "d3591f6",
+      "url": "https://github.com/caml07/camskills/commit/d3591f65708ec2cbf27f8065227f27fca65e7ad2"
     },
     {
-      "date": "2026-10-08T10:31:32.000-03:00",
-      "message": "feat(void): first-class Void Linux support (#283)",
-      "repo": "inir-hub",
-      "sha": "5ca6a79",
-      "url": "https://github.com/snowarch/inir-hub/commit/5ca6a7973b332f7088b82607849391f47ccb8ae7"
+      "date": "2026-10-24T23:29:09.000-06:00",
+      "message": "feat: add stable Matt Pocock skills",
+      "repo": "camskills",
+      "sha": "a70c685",
+      "url": "https://github.com/caml07/camskills/commit/a70c68559d121bd0513bb831e15792084d874236"
     },
     {
-      "date": "2026-10-08T10:31:32.000-03:00",
-      "message": "feat(void): first-class Void Linux support (#283)",
-      "repo": "iNiR",
-      "sha": "7e3f2df",
-      "url": "https://github.com/snowarch/iNiR/commit/7e3f2df69bb01fd47a6b1e7e3e84b37f5507eeb5"
+      "date": "2026-10-24T23:19:24.000-06:00",
+      "message": "sync: refresh local skills and curate impeccable RN from upstream",
+      "repo": "camskills",
+      "sha": "f7fefc0",
+      "url": "https://github.com/caml07/camskills/commit/f7fefc00d211d86ecee1fea12c45f1e5a5bb2cb8"
     },
     {
-      "date": "2026-10-01T14:30:59.000-03:00",
-      "message": "fix(recording): recenter OSD until drag",
-      "repo": "iNiR",
-      "sha": "4e2aae8",
-      "url": "https://github.com/snowarch/iNiR/commit/4e2aae86513f8886d360e7a44b74c5bc8da80677"
+      "date": "2026-10-24T23:11:43.000-06:00",
+      "message": "docs: add retrospective course review guidance",
+      "repo": "camskills",
+      "sha": "3f6ef96",
+      "url": "https://github.com/caml07/camskills/commit/3f6ef9646d6633eb969544e230fb83426334353b"
     },
     {
-      "date": "2026-10-01T14:30:59.000-03:00",
-      "message": "fix(recording): keep the OSD on every output",
-      "repo": "iNiR",
-      "sha": "1e7e0ce",
-      "url": "https://github.com/snowarch/iNiR/commit/1e7e0cea7b9e52968db14a0f1a6371c4f97a7d1c"
+      "date": "2026-10-24T23:11:34.000-06:00",
+      "message": "fix: migrate local OpenCode plugins and staged-secret scanner to V2",
+      "repo": "camskills",
+      "sha": "460194c",
+      "url": "https://github.com/caml07/camskills/commit/460194ce4e9f55b31d445eb54b9c84692b210730"
     }
   ],
   "repos": [
@@ -145,9 +151,18 @@
       "fork": false,
       "language": "",
       "name": "FixIt",
-      "pushed_at": "2026-11-17T23:10:55Z",
+      "pushed_at": "2026-11-18T17:46:16Z",
       "stars": 0,
       "url": "https://github.com/caml07/FixIt"
+    },
+    {
+      "description": "skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario",
+      "fork": false,
+      "language": "JavaScript",
+      "name": "camskills",
+      "pushed_at": "2026-11-09T19:09:58Z",
+      "stars": 0,
+      "url": "https://github.com/caml07/camskills"
     },
     {
       "description": "A Niri shell illogical-impulse based - with some modifications..",

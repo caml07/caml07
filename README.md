@@ -36,19 +36,22 @@ chore: inicializar repositorio vacío
 `▌ ● 01` **[FixIt](https://github.com/caml07/FixIt)** `— / NOW`
 <sub>Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT</sub>
 
-`  ○ 02` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
+`  ○ 02` **[camskills](https://github.com/caml07/camskills)** `JAVASCRIPT / PUBLIC`
+<sub>skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario</sub>
+
+`  ○ 03` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
 <sub>A Niri shell illogical-impulse based - with some modifications..</sub>
 
-`  ○ 03` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / PUBLIC`
+`  ○ 04` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / PUBLIC`
 <sub>An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.</sub>
 
-`  ○ 04` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
+`  ○ 05` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
 <sub>Una calculadora hecha con flask</sub>
 
-`  ○ 05` **[wayvibes-tui](https://github.com/caml07/wayvibes-tui)** `RUST / PUBLIC`
+`  ○ 06` **[wayvibes-tui](https://github.com/caml07/wayvibes-tui)** `RUST / PUBLIC`
 <sub>A native Linux terminal interface for WayVibes, built with Rust, Ratatui and Crossterm.</sub>
 
-`  ○ 06` **[spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)** `TYPESCRIPT / FORK`
+`  ○ 07` **[spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)** `TYPESCRIPT / FORK`
 <sub>A spicetify extension that lets a cat jam in sync with the beat of your music. UPDATED</sub>
 
 ---
@@ -65,23 +68,23 @@ chore: inicializar repositorio vacío
 2026.11.09 22:18  b6803e2  FixIt
   chore: inicializar repositorio vacío
 
-2026.10.08 10:31  e226c5a  inir-hub
-  feat(void): first-class Void Linux support (#283)
+2026.11.09 13:09  24f9c85  camskills
+  feat: rediseñar instalador y documentación de CamSkills
 
-2026.10.08 10:31  3ed818d  inir-hub
-  feat(void): first-class Void Linux support (#283)
+2026.11.09 12:07  d3591f6  camskills
+  feat: integrar Pstack y cam-route al workflow de skills
 
-2026.10.08 10:31  5ca6a79  inir-hub
-  feat(void): first-class Void Linux support (#283)
+2026.10.24 23:29  a70c685  camskills
+  feat: add stable Matt Pocock skills
 
-2026.10.08 10:31  7e3f2df  iNiR
-  feat(void): first-class Void Linux support (#283)
+2026.10.24 23:19  f7fefc0  camskills
+  sync: refresh local skills and curate impeccable RN from upstream
 
-2026.10.01 14:30  4e2aae8  iNiR
-  fix(recording): recenter OSD until drag
+2026.10.24 23:11  3f6ef96  camskills
+  docs: add retrospective course review guidance
 
-2026.10.01 14:30  1e7e0ce  iNiR
-  fix(recording): keep the OSD on every output
+2026.10.24 23:11  460194c  camskills
+  fix: migrate local OpenCode plugins and staged-secret scanner to V2
 ```
 
 ---
