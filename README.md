@@ -99,4 +99,4 @@ chore: inicializar repositorio vacío
 
 ---
 
-<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.11.21 · CAM / 07</sub>
+<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.11.22 · CAM / 07</sub>
