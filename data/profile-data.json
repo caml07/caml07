@@ -1,45 +1,44 @@
 {
   "active_repo": {
-    "description": "Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT",
+    "description": "Biblioteca descentralizada en Solana: pr\u00e9stamos de libros con Rust, Anchor y React",
     "fork": false,
-    "language": "",
-    "name": "FixIt",
-    "pushed_at": "2026-11-21T00:10:35Z",
+    "language": "TypeScript",
+    "name": "solana-library",
+    "pushed_at": "2026-11-23T04:35:43Z",
     "stars": 0,
-    "url": "https://github.com/caml07/FixIt"
+    "url": "https://github.com/caml07/solana-library"
   },
-  "contributions": 343,
-  "generated_at": "2026-11-22",
+  "contributions": 358,
+  "generated_at": "2026-11-23",
   "languages": {
-    "Awk": 6162,
-    "Batchfile": 12503,
-    "CSS": 24836,
+    "Awk": 5874,
+    "Batchfile": 15105,
+    "CSS": 52311,
     "GLSL": 59829,
     "Go": 105216,
-    "HTML": 193241,
+    "HTML": 193928,
     "Java": 2717,
-    "JavaScript": 1218489,
+    "JavaScript": 1222773,
     "Makefile": 3383,
-    "Mermaid": 21741,
+    "Mermaid": 21756,
     "Nix": 14554,
     "PowerShell": 960,
-    "Python": 908052,
+    "Python": 931509,
     "QML": 16633059,
-    "Rust": 128367,
-    "Shell": 1715457,
+    "Rust": 149003,
+    "Shell": 1717917,
     "TLA": 30612,
-    "TypeScript": 654354
+    "TypeScript": 891952
   },
   "latest_commit": {
-    "date": "2026-11-09T22:18:29.000-06:00",
-    "message": "chore: inicializar repositorio vac\u00edo",
-    "repo": "FixIt",
-    "sha": "b6803e2",
-    "url": "https://github.com/caml07/FixIt/commit/b6803e2bb23c1ef330fa6e4e0825770d64460833"
+    "date": "2026-11-22T22:35:37.000-06:00",
+    "message": "docs: record WayLearn submission and credit Cam Route",
+    "repo": "solana-library",
+    "sha": "2d28a97",
+    "url": "https://github.com/caml07/solana-library/commit/2d28a97aa294ad65051f72e6c6558d20ec1a2673"
   },
   "login": "caml07",
   "moss_weeks": [
-    0,
     22,
     29,
     12,
@@ -91,61 +90,80 @@
     0,
     4,
     6,
-    0
+    14,
+    1
   ],
-  "public_repos": 7,
+  "public_repos": 8,
   "recent_commits": [
     {
-      "date": "2026-11-09T22:18:29.000-06:00",
-      "message": "chore: inicializar repositorio vac\u00edo",
-      "repo": "FixIt",
-      "sha": "b6803e2",
-      "url": "https://github.com/caml07/FixIt/commit/b6803e2bb23c1ef330fa6e4e0825770d64460833"
+      "date": "2026-11-22T22:35:37.000-06:00",
+      "message": "docs: record WayLearn submission and credit Cam Route",
+      "repo": "solana-library",
+      "sha": "2d28a97",
+      "url": "https://github.com/caml07/solana-library/commit/2d28a97aa294ad65051f72e6c6558d20ec1a2673"
     },
     {
-      "date": "2026-11-09T13:09:57.000-06:00",
-      "message": "feat: redise\u00f1ar instalador y documentaci\u00f3n de CamSkills",
-      "repo": "camskills",
-      "sha": "24f9c85",
-      "url": "https://github.com/caml07/camskills/commit/24f9c85fd6d3aba832d9dcb87ad40b106b6132da"
+      "date": "2026-11-22T22:21:15.000-06:00",
+      "message": "docs: align Solana Library scope with delivered Devnet MVP",
+      "repo": "solana-library",
+      "sha": "0e6e097",
+      "url": "https://github.com/caml07/solana-library/commit/0e6e0970382dd22d12217448f261e8d446fd8fae"
     },
     {
-      "date": "2026-11-09T12:07:36.000-06:00",
-      "message": "feat: integrar Pstack y cam-route al workflow de skills",
-      "repo": "camskills",
-      "sha": "d3591f6",
-      "url": "https://github.com/caml07/camskills/commit/d3591f65708ec2cbf27f8065227f27fca65e7ad2"
+      "date": "2026-11-22T22:13:32.000-06:00",
+      "message": "docs(evidence): publish 26 Devnet screenshots and README gallery",
+      "repo": "solana-library",
+      "sha": "1be1ea6",
+      "url": "https://github.com/caml07/solana-library/commit/1be1ea6076a8b4e81db149a74018d158d4827a33"
     },
     {
-      "date": "2026-10-24T23:29:09.000-06:00",
-      "message": "feat: add stable Matt Pocock skills",
-      "repo": "camskills",
-      "sha": "a70c685",
-      "url": "https://github.com/caml07/camskills/commit/a70c68559d121bd0513bb831e15792084d874236"
+      "date": "2026-11-22T21:08:47.000-06:00",
+      "message": "docs(devnet): add Phantom verification checklist",
+      "repo": "solana-library",
+      "sha": "b94db4b",
+      "url": "https://github.com/caml07/solana-library/commit/b94db4b2a9fe285a7e43c05e0d65ceb2ab39418e"
     },
     {
-      "date": "2026-10-24T23:19:24.000-06:00",
-      "message": "sync: refresh local skills and curate impeccable RN from upstream",
-      "repo": "camskills",
-      "sha": "f7fefc0",
-      "url": "https://github.com/caml07/camskills/commit/f7fefc00d211d86ecee1fea12c45f1e5a5bb2cb8"
+      "date": "2026-11-22T21:08:41.000-06:00",
+      "message": "design(web): add cacao and lime book favicon",
+      "repo": "solana-library",
+      "sha": "d8a6d01",
+      "url": "https://github.com/caml07/solana-library/commit/d8a6d015b9cb1320e12fbf4b7976efad08695bf0"
     },
     {
-      "date": "2026-10-24T23:11:43.000-06:00",
-      "message": "docs: add retrospective course review guidance",
-      "repo": "camskills",
-      "sha": "3f6ef96",
-      "url": "https://github.com/caml07/camskills/commit/3f6ef9646d6633eb969544e230fb83426334353b"
+      "date": "2026-11-22T20:32:07.000-06:00",
+      "message": "docs(devnet): publish live Explorer evidence and verified catalog",
+      "repo": "solana-library",
+      "sha": "6d7c9ce",
+      "url": "https://github.com/caml07/solana-library/commit/6d7c9ce2cabbb6d9cd0eaeb0437a48eeff76a7a9"
     },
     {
-      "date": "2026-10-24T23:11:34.000-06:00",
-      "message": "fix: migrate local OpenCode plugins and staged-secret scanner to V2",
-      "repo": "camskills",
-      "sha": "460194c",
-      "url": "https://github.com/caml07/camskills/commit/460194ce4e9f55b31d445eb54b9c84692b210730"
+      "date": "2026-11-22T20:31:55.000-06:00",
+      "message": "feat(devnet): add reproducible wallet-signed evidence runner",
+      "repo": "solana-library",
+      "sha": "31abedf",
+      "url": "https://github.com/caml07/solana-library/commit/31abedf5e520e97aca82b8770ee2e57b2c95ef11"
     }
   ],
   "repos": [
+    {
+      "description": "Biblioteca descentralizada en Solana: pr\u00e9stamos de libros con Rust, Anchor y React",
+      "fork": false,
+      "language": "TypeScript",
+      "name": "solana-library",
+      "pushed_at": "2026-11-23T04:35:43Z",
+      "stars": 0,
+      "url": "https://github.com/caml07/solana-library"
+    },
+    {
+      "description": "skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario",
+      "fork": false,
+      "language": "JavaScript",
+      "name": "camskills",
+      "pushed_at": "2026-11-22T22:02:40Z",
+      "stars": 0,
+      "url": "https://github.com/caml07/camskills"
+    },
     {
       "description": "Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT",
       "fork": false,
@@ -154,15 +172,6 @@
       "pushed_at": "2026-11-21T00:10:35Z",
       "stars": 0,
       "url": "https://github.com/caml07/FixIt"
-    },
-    {
-      "description": "skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario",
-      "fork": false,
-      "language": "JavaScript",
-      "name": "camskills",
-      "pushed_at": "2026-11-09T19:09:58Z",
-      "stars": 0,
-      "url": "https://github.com/caml07/camskills"
     },
     {
       "description": "A Niri shell illogical-impulse based - with some modifications..",

@@ -10,9 +10,9 @@
   <line x1="22" y1="42" x2="878" y2="42" stroke="#493e31" opacity=".72"/>
 <text x="24" y="74" class="mono caps" fill="#d8c7a3" font-size="10">QML</text>
 <rect x="178" y="63" width="610" height="11" fill="#27231e"/>
-<rect x="178" y="63" width="463.60" height="11" fill="#e1a33b"/>
-<line x1="641.60" y1="59" x2="641.60" y2="78" stroke="#d8c7a3" stroke-width="1"/>
-<text x="858" y="74" text-anchor="end" class="mono" fill="#e1a33b" font-size="11" font-weight="700">76%</text>
+<rect x="178" y="63" width="457.50" height="11" fill="#e1a33b"/>
+<line x1="635.50" y1="59" x2="635.50" y2="78" stroke="#d8c7a3" stroke-width="1"/>
+<text x="858" y="74" text-anchor="end" class="mono" fill="#e1a33b" font-size="11" font-weight="700">75%</text>
 <text x="24" y="104" class="mono caps" fill="#d8c7a3" font-size="10">SHELL</text>
 <rect x="178" y="93" width="610" height="11" fill="#27231e"/>
 <rect x="178" y="93" width="48.80" height="11" fill="#91b36b"/>
@@ -30,7 +30,7 @@
 <text x="858" y="164" text-anchor="end" class="mono" fill="#d96b5f" font-size="11" font-weight="700">04%</text>
 <text x="24" y="194" class="mono caps" fill="#d8c7a3" font-size="10">OTHER</text>
 <rect x="178" y="183" width="610" height="11" fill="#27231e"/>
-<rect x="178" y="183" width="36.60" height="11" fill="#8d76ad"/>
-<line x1="214.60" y1="179" x2="214.60" y2="198" stroke="#d8c7a3" stroke-width="1"/>
-<text x="858" y="194" text-anchor="end" class="mono" fill="#8d76ad" font-size="11" font-weight="700">06%</text>
+<rect x="178" y="183" width="42.70" height="11" fill="#8d76ad"/>
+<line x1="220.70" y1="179" x2="220.70" y2="198" stroke="#d8c7a3" stroke-width="1"/>
+<text x="858" y="194" text-anchor="end" class="mono" fill="#8d76ad" font-size="11" font-weight="700">07%</text>
 </svg>
