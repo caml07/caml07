@@ -1,18 +1,18 @@
 {
   "active_repo": {
-    "description": "Biblioteca descentralizada en Solana: pr\u00e9stamos de libros con Rust, Anchor y React",
+    "description": "skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario",
     "fork": false,
-    "language": "TypeScript",
-    "name": "solana-library",
-    "pushed_at": "2026-11-23T04:35:43Z",
-    "stars": 0,
-    "url": "https://github.com/caml07/solana-library"
+    "language": "JavaScript",
+    "name": "camskills",
+    "pushed_at": "2026-11-24T15:51:39Z",
+    "stars": 1,
+    "url": "https://github.com/caml07/camskills"
   },
-  "contributions": 358,
+  "contributions": 359,
   "generated_at": "2026-11-24",
   "languages": {
     "Awk": 5874,
-    "Batchfile": 15105,
+    "Batchfile": 15556,
     "CSS": 52311,
     "GLSL": 59829,
     "Go": 105216,
@@ -23,7 +23,7 @@
     "Mermaid": 21756,
     "Nix": 14554,
     "PowerShell": 960,
-    "Python": 931509,
+    "Python": 931991,
     "QML": 16633059,
     "Rust": 149003,
     "Shell": 1717917,
@@ -31,11 +31,11 @@
     "TypeScript": 891952
   },
   "latest_commit": {
-    "date": "2026-11-22T22:35:37.000-06:00",
-    "message": "docs: record WayLearn submission and credit Cam Route",
-    "repo": "solana-library",
-    "sha": "2d28a97",
-    "url": "https://github.com/caml07/solana-library/commit/2d28a97aa294ad65051f72e6c6558d20ec1a2673"
+    "date": "2026-11-24T09:51:37.000-06:00",
+    "message": "Support the Windows installer from PowerShell and CMD",
+    "repo": "camskills",
+    "sha": "8979e74",
+    "url": "https://github.com/caml07/camskills/commit/8979e74ef097775078f3356cf7472b811755bea4"
   },
   "login": "caml07",
   "moss_weeks": [
@@ -91,10 +91,17 @@
     4,
     6,
     14,
-    1
+    2
   ],
   "public_repos": 8,
   "recent_commits": [
+    {
+      "date": "2026-11-24T09:51:37.000-06:00",
+      "message": "Support the Windows installer from PowerShell and CMD",
+      "repo": "camskills",
+      "sha": "8979e74",
+      "url": "https://github.com/caml07/camskills/commit/8979e74ef097775078f3356cf7472b811755bea4"
+    },
     {
       "date": "2026-11-22T22:35:37.000-06:00",
       "message": "docs: record WayLearn submission and credit Cam Route",
@@ -136,22 +143,24 @@
       "repo": "solana-library",
       "sha": "6d7c9ce",
       "url": "https://github.com/caml07/solana-library/commit/6d7c9ce2cabbb6d9cd0eaeb0437a48eeff76a7a9"
-    },
-    {
-      "date": "2026-11-22T20:31:55.000-06:00",
-      "message": "feat(devnet): add reproducible wallet-signed evidence runner",
-      "repo": "solana-library",
-      "sha": "31abedf",
-      "url": "https://github.com/caml07/solana-library/commit/31abedf5e520e97aca82b8770ee2e57b2c95ef11"
     }
   ],
   "repos": [
+    {
+      "description": "skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario",
+      "fork": false,
+      "language": "JavaScript",
+      "name": "camskills",
+      "pushed_at": "2026-11-24T15:51:39Z",
+      "stars": 1,
+      "url": "https://github.com/caml07/camskills"
+    },
     {
       "description": "Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT",
       "fork": false,
       "language": "",
       "name": "FixIt",
-      "pushed_at": "2026-11-24T05:57:47Z",
+      "pushed_at": "2026-11-24T15:08:54Z",
       "stars": 1,
       "url": "https://github.com/caml07/FixIt"
     },
@@ -163,15 +172,6 @@
       "pushed_at": "2026-11-23T04:35:43Z",
       "stars": 0,
       "url": "https://github.com/caml07/solana-library"
-    },
-    {
-      "description": "skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario",
-      "fork": false,
-      "language": "JavaScript",
-      "name": "camskills",
-      "pushed_at": "2026-11-22T22:02:40Z",
-      "stars": 1,
-      "url": "https://github.com/caml07/camskills"
     },
     {
       "description": "A Niri shell illogical-impulse based - with some modifications..",

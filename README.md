@@ -11,15 +11,15 @@
 
 ## DECK / NOW
 
-### [solana-library](https://github.com/caml07/solana-library)
+### [camskills](https://github.com/caml07/camskills)
 
-Biblioteca descentralizada en Solana: préstamos de libros con Rust, Anchor y React
+skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario
 
-`TYPESCRIPT` · `ORIGINAL` · `★ 0`
+`JAVASCRIPT` · `ORIGINAL` · `★ 1`
 
 **LAST SIGNAL**<br>
-[`2d28a97`](https://github.com/caml07/solana-library/commit/2d28a97aa294ad65051f72e6c6558d20ec1a2673) · `2026.11.22` · `22:35`<br>
-docs: record WayLearn submission and credit Cam Route
+[`8979e74`](https://github.com/caml07/camskills/commit/8979e74ef097775078f3356cf7472b811755bea4) · `2026.11.24` · `09:51`<br>
+Support the Windows installer from PowerShell and CMD
 
 ---
 
@@ -33,14 +33,14 @@ docs: record WayLearn submission and credit Cam Route
 
 ## BANK / PUBLIC
 
-`  ○ 01` **[FixIt](https://github.com/caml07/FixIt)** `— / PUBLIC`
+`▌ ● 01` **[camskills](https://github.com/caml07/camskills)** `JAVASCRIPT / NOW`
+<sub>skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario</sub>
+
+`  ○ 02` **[FixIt](https://github.com/caml07/FixIt)** `— / PUBLIC`
 <sub>Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT</sub>
 
-`▌ ● 02` **[solana-library](https://github.com/caml07/solana-library)** `TYPESCRIPT / NOW`
+`  ○ 03` **[solana-library](https://github.com/caml07/solana-library)** `TYPESCRIPT / PUBLIC`
 <sub>Biblioteca descentralizada en Solana: préstamos de libros con Rust, Anchor y React</sub>
-
-`  ○ 03` **[camskills](https://github.com/caml07/camskills)** `JAVASCRIPT / PUBLIC`
-<sub>skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario</sub>
 
 `  ○ 04` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
 <sub>A Niri shell illogical-impulse based - with some modifications..</sub>
@@ -68,6 +68,9 @@ docs: record WayLearn submission and credit Cam Route
 ## LOG / RECENT
 
 ```text
+2026.11.24 09:51  8979e74  camskills
+  Support the Windows installer from PowerShell and CMD
+
 2026.11.22 22:35  2d28a97  solana-library
   docs: record WayLearn submission and credit Cam Route
 
@@ -85,9 +88,6 @@ docs: record WayLearn submission and credit Cam Route
 
 2026.11.22 20:32  6d7c9ce  solana-library
   docs(devnet): publish live Explorer evidence and verified catalog
-
-2026.11.22 20:31  31abedf  solana-library
-  feat(devnet): add reproducible wallet-signed evidence runner
 ```
 
 ---
