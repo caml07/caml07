@@ -33,14 +33,14 @@ docs: record WayLearn submission and credit Cam Route
 
 ## BANK / PUBLIC
 
-`▌ ● 01` **[solana-library](https://github.com/caml07/solana-library)** `TYPESCRIPT / NOW`
+`  ○ 01` **[FixIt](https://github.com/caml07/FixIt)** `— / PUBLIC`
+<sub>Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT</sub>
+
+`▌ ● 02` **[solana-library](https://github.com/caml07/solana-library)** `TYPESCRIPT / NOW`
 <sub>Biblioteca descentralizada en Solana: préstamos de libros con Rust, Anchor y React</sub>
 
-`  ○ 02` **[camskills](https://github.com/caml07/camskills)** `JAVASCRIPT / PUBLIC`
+`  ○ 03` **[camskills](https://github.com/caml07/camskills)** `JAVASCRIPT / PUBLIC`
 <sub>skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario</sub>
-
-`  ○ 03` **[FixIt](https://github.com/caml07/FixIt)** `— / PUBLIC`
-<sub>Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT</sub>
 
 `  ○ 04` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
 <sub>A Niri shell illogical-impulse based - with some modifications..</sub>
@@ -102,4 +102,4 @@ docs: record WayLearn submission and credit Cam Route
 
 ---
 
-<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.11.23 · CAM / 07</sub>
+<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.11.24 · CAM / 07</sub>

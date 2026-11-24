@@ -9,7 +9,7 @@
     "url": "https://github.com/caml07/solana-library"
   },
   "contributions": 358,
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "languages": {
     "Awk": 5874,
     "Batchfile": 15105,
@@ -147,6 +147,15 @@
   ],
   "repos": [
     {
+      "description": "Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT",
+      "fork": false,
+      "language": "",
+      "name": "FixIt",
+      "pushed_at": "2026-11-24T05:57:47Z",
+      "stars": 1,
+      "url": "https://github.com/caml07/FixIt"
+    },
+    {
       "description": "Biblioteca descentralizada en Solana: pr\u00e9stamos de libros con Rust, Anchor y React",
       "fork": false,
       "language": "TypeScript",
@@ -161,17 +170,8 @@
       "language": "JavaScript",
       "name": "camskills",
       "pushed_at": "2026-11-22T22:02:40Z",
-      "stars": 0,
+      "stars": 1,
       "url": "https://github.com/caml07/camskills"
-    },
-    {
-      "description": "Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT",
-      "fork": false,
-      "language": "",
-      "name": "FixIt",
-      "pushed_at": "2026-11-21T00:10:35Z",
-      "stars": 0,
-      "url": "https://github.com/caml07/FixIt"
     },
     {
       "description": "A Niri shell illogical-impulse based - with some modifications..",
@@ -219,5 +219,5 @@
       "url": "https://github.com/caml07/spicetify-cat-jam-synced"
     }
   ],
-  "stars": 2
+  "stars": 4
 }
