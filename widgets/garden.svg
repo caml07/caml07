@@ -247,17 +247,19 @@
 <line x1="856.65" y1="155.25" x2="862.85" y2="154.05" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
 <ellipse cx="866.85" cy="153.15" rx="8.00" ry="3.40" transform="rotate(28 866.85 153.15)" fill="#91b36b" opacity="0.87"/>
 </g>
-<g data-week="52" data-total="11">
-<path d="M 872.00 184.00 Q 868.45 157.72 875.55 131.44" fill="none" stroke="#91b36b" stroke-width="1.17" stroke-linecap="round"/>
-<line x1="872.89" y1="170.86" x2="867.63" y2="169.66" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="865.52" cy="168.76" rx="4.22" ry="1.96" transform="rotate(-28 865.52 168.76)" fill="#91b36b" opacity="0.56"/>
-<line x1="873.78" y1="157.72" x2="879.03" y2="156.52" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
-<ellipse cx="881.14" cy="155.62" rx="4.22" ry="1.96" transform="rotate(28 881.14 155.62)" fill="#91b36b" opacity="0.56"/>
-<line x1="874.66" y1="144.58" x2="868.57" y2="143.38" stroke="#91b36b" stroke-width=".7" opacity="0.84"/>
-<ellipse cx="864.78" cy="142.48" rx="7.58" ry="3.24" transform="rotate(-28 864.78 142.48)" fill="#91b36b" opacity="0.84"/>
-<circle cx="875.55" cy="131.44" r="3.4" fill="#e1a33b"/>
-<circle cx="875.55" cy="131.44" r="6.8" fill="none" stroke="#e1a33b" opacity=".24"/>
+<g data-week="52" data-total="18">
+<path d="M 872.00 184.00 Q 867.96 152.33 876.04 120.67" fill="none" stroke="#91b36b" stroke-width="1.27" stroke-linecap="round"/>
+<line x1="872.81" y1="171.33" x2="867.55" y2="170.13" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="865.44" cy="169.23" rx="4.22" ry="1.96" transform="rotate(-28 865.44 169.23)" fill="#91b36b" opacity="0.56"/>
+<line x1="873.62" y1="158.67" x2="878.87" y2="157.47" stroke="#91b36b" stroke-width=".7" opacity="0.56"/>
+<ellipse cx="880.98" cy="156.57" rx="4.22" ry="1.96" transform="rotate(28 880.98 156.57)" fill="#91b36b" opacity="0.56"/>
+<line x1="874.43" y1="146.00" x2="868.23" y2="144.80" stroke="#91b36b" stroke-width=".7" opacity="0.87"/>
+<ellipse cx="864.23" cy="143.90" rx="8.00" ry="3.40" transform="rotate(-28 864.23 143.90)" fill="#91b36b" opacity="0.87"/>
+<line x1="875.23" y1="133.33" x2="880.91" y2="132.13" stroke="#91b36b" stroke-width=".7" opacity="0.70"/>
+<ellipse cx="883.86" cy="131.23" rx="5.90" ry="2.60" transform="rotate(28 883.86 131.23)" fill="#91b36b" opacity="0.70"/>
+<circle cx="876.04" cy="120.67" r="3.4" fill="#e1a33b"/>
+<circle cx="876.04" cy="120.67" r="6.8" fill="none" stroke="#e1a33b" opacity=".24"/>
 </g>
 <text x="28" y="212" class="mono caps" fill="#4e473d" font-size="8">OLD GROWTH</text>
-<text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 368 CONTRIBUTIONS</text>
+<text x="872" y="212" text-anchor="end" class="mono caps" fill="#817463" font-size="8">NOW / 375 CONTRIBUTIONS</text>
 </svg>

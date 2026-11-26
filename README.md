@@ -33,28 +33,34 @@ Support the Windows installer from PowerShell and CMD
 
 ## BANK / PUBLIC
 
-`▌ ● 01` **[camskills](https://github.com/caml07/camskills)** `JAVASCRIPT / NOW`
-<sub>skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario</sub>
-
-`  ○ 02` **[FixIt](https://github.com/caml07/FixIt)** `— / PUBLIC`
+`  ○ 01` **[FixIt](https://github.com/caml07/FixIt)** `— / PUBLIC`
 <sub>Proyecto academico de Web Development II y Cloud Computing: mesa de ayuda y tickets IT</sub>
 
-`  ○ 03` **[solana-library](https://github.com/caml07/solana-library)** `TYPESCRIPT / PUBLIC`
+`  ○ 02` **[Suwayomi-WebUI](https://github.com/caml07/Suwayomi-WebUI)** `— / FORK`
+<sub>public repository.</sub>
+
+`▌ ● 03` **[camskills](https://github.com/caml07/camskills)** `JAVASCRIPT / NOW`
+<sub>skills de opencode que encuentro util para mobile, cosas de toda la vida etc. En general, las que utilize durante la pasantia y ahora en mi flujo de desarrollo diario</sub>
+
+`  ○ 04` **[solana-library](https://github.com/caml07/solana-library)** `TYPESCRIPT / PUBLIC`
 <sub>Biblioteca descentralizada en Solana: préstamos de libros con Rust, Anchor y React</sub>
 
-`  ○ 04` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
+`  ○ 05` **[mihon](https://github.com/caml07/mihon)** `— / FORK`
+<sub>Free and open source manga reader for Android</sub>
+
+`  ○ 06` **[iNiR](https://github.com/caml07/iNiR)** `QML / FORK`
 <sub>A Niri shell illogical-impulse based - with some modifications..</sub>
 
-`  ○ 05` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / PUBLIC`
+`  ○ 07` **[OSF-Atlas](https://github.com/caml07/OSF-Atlas)** `PYTHON / PUBLIC`
 <sub>An evidence-first archive of Obsidian Soundfields: transcripts, entities, locations and human-reviewed connections.</sub>
 
-`  ○ 06` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
+`  ○ 08` **[calc-slang-for-calculator-](https://github.com/caml07/calc-slang-for-calculator-)** `PYTHON / PUBLIC`
 <sub>Una calculadora hecha con flask</sub>
 
-`  ○ 07` **[wayvibes-tui](https://github.com/caml07/wayvibes-tui)** `RUST / PUBLIC`
+`  ○ 09` **[wayvibes-tui](https://github.com/caml07/wayvibes-tui)** `RUST / PUBLIC`
 <sub>A native Linux terminal interface for WayVibes, built with Rust, Ratatui and Crossterm.</sub>
 
-`  ○ 08` **[spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)** `TYPESCRIPT / FORK`
+`  ○ 10` **[spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)** `TYPESCRIPT / FORK`
 <sub>A spicetify extension that lets a cat jam in sync with the beat of your music. UPDATED</sub>
 
 ---
@@ -102,4 +108,4 @@ Support the Windows installer from PowerShell and CMD
 
 ---
 
-<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.11.25 · CAM / 07</sub>
+<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.11.26 · CAM / 07</sub>
