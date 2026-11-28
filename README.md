@@ -63,6 +63,9 @@ Support the Windows installer from PowerShell and CMD
 `  ○ 10` **[spicetify-cat-jam-synced](https://github.com/caml07/spicetify-cat-jam-synced)** `TYPESCRIPT / FORK`
 <sub>A spicetify extension that lets a cat jam in sync with the beat of your music. UPDATED</sub>
 
+`  ○ 11` **[CamCookies](https://github.com/caml07/CamCookies)** `C# / PUBLIC`
+<sub>Proyecto Final C# - Cam Cookies</sub>
+
 ---
 
 ## MIXER / LANGUAGES
@@ -108,4 +111,4 @@ Support the Windows installer from PowerShell and CMD
 
 ---
 
-<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.11.27 · CAM / 07</sub>
+<sub>SOURCE / GITHUB GRAPHQL + REST · REFRESH / 6H · UPDATED / 2026.11.28 · CAM / 07</sub>

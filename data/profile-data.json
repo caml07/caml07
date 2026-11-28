@@ -9,17 +9,19 @@
     "url": "https://github.com/caml07/camskills"
   },
   "contributions": 375,
-  "generated_at": "2026-11-27",
+  "generated_at": "2026-11-28",
   "languages": {
     "AIDL": 170,
     "Awk": 5874,
     "Batchfile": 15556,
-    "CSS": 52603,
+    "C#": 246812,
+    "CSS": 106629,
+    "Dockerfile": 1186,
     "GLSL": 59829,
     "Go": 105216,
-    "HTML": 197194,
+    "HTML": 383058,
     "Java": 2717,
-    "JavaScript": 1223289,
+    "JavaScript": 1223516,
     "Kotlin": 3650384,
     "Makefile": 3383,
     "Mermaid": 21756,
@@ -95,7 +97,7 @@
     14,
     18
   ],
-  "public_repos": 10,
+  "public_repos": 11,
   "recent_commits": [
     {
       "date": "2026-11-24T09:51:37.000-06:00",
@@ -153,7 +155,7 @@
       "fork": false,
       "language": "",
       "name": "FixIt",
-      "pushed_at": "2026-11-27T21:17:18Z",
+      "pushed_at": "2026-11-28T05:32:11Z",
       "stars": 1,
       "url": "https://github.com/caml07/FixIt"
     },
@@ -237,6 +239,15 @@
       "pushed_at": "2026-08-25T21:13:28Z",
       "stars": 0,
       "url": "https://github.com/caml07/spicetify-cat-jam-synced"
+    },
+    {
+      "description": "Proyecto Final C# - Cam Cookies",
+      "fork": false,
+      "language": "C#",
+      "name": "CamCookies",
+      "pushed_at": "2025-12-10T17:39:33Z",
+      "stars": 0,
+      "url": "https://github.com/caml07/CamCookies"
     }
   ],
   "stars": 4
